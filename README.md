@@ -9,3 +9,10 @@ Personal Wrong Word List
 ```shell
 > python main.py
 ```
+
+## Distribution of Records
+
+| cycle |    1 |    2 |
+| :---- | ---: | ---: |
+| 1     |  460 |    2 |
+

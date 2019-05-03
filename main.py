@@ -33,14 +33,18 @@ def frqdict2frqlist(frq_dict):
     return wordlist
 
 
-def frqlist2markdown(export, frq_list):
+def count(frq_list):
     values = list(range(frq_list[0][1] + 1, 0, -1))
-    # print(values)
     for value in values:
         cnt = sum([1 for _ in frq_list if _[1] == value])
-        print(value, cnt)
-    values = values[:-1]
-    value_and_prefix = [(v, g) for v in values for g in GROUP_BY]
+        print(f"record {value:2d} time(s): {cnt:4d} word(s).")
+        # print(value, cnt)
+    return values
+
+
+def frqlist2markdown(export, cnt, frq_list):
+    cnt = cnt[:-1]
+    value_and_prefix = [(v, g) for v in cnt for g in GROUP_BY]
     frq_list = list(filter(lambda x: x[1] > 1, frq_list))
     with open(export, 'w', encoding='utf-8') as fout:
         for value, prefix in value_and_prefix:
@@ -56,14 +60,9 @@ def frqlist2markdown(export, frq_list):
             print("", file=fout)
 
 
-def frqlist2markdown_rank(export, frq_list, _data):
-    values = list(range(frq_list[0][1] + 1, 0, -1))
-    # print(values)
-    for value in values:
-        cnt = sum([1 for _ in frq_list if _[1] == value])
-        print(value, cnt)
-    values = values[:-1]
-    byrank_, phrase_ = [[] for value in values], [[] for value in values]
+def frqlist2markdown_rank(export, cnt, frq_list, _data):
+    cnt = cnt[:-1]
+    byrank_, phrase_ = [[] for value in cnt], [[] for value in cnt]
     for lemma, frq in frq_list:
         if frq < 2: continue
         if lemma.find(' ') == -1:
@@ -72,7 +71,7 @@ def frqlist2markdown_rank(export, frq_list, _data):
         else:
             phrase_[frq - 2].append(lemma + '\n')
     with open(export, 'w', encoding='utf-8') as fout:
-        value = values[0]
+        value = cnt[0]
         total = 0
         for byrank, phrase in zip(byrank_[::-1], phrase_[::-1]):
             phrase = sorted(phrase)
@@ -114,8 +113,10 @@ def main():
     wordlists = [markdown2wordlist(_) for _ in worklist]
     frq_dict = wordlists2frqdict(wordlists)
     frq_list = frqdict2frqlist(frq_dict)
-    frqlist2markdown("Wrong-Word-List-Group-by-Error-Frequency.txt", frq_list)
-    frqlist2markdown_rank("Wrong-Word-List-Group-by-Using-Frequency.txt",
+    cnt = count(frq_list)
+    frqlist2markdown("Wrong-Word-List-Group-by-Error-Frequency.txt", cnt,
+                     frq_list)
+    frqlist2markdown_rank("Wrong-Word-List-Group-by-Using-Frequency.txt", cnt,
                           frq_list, readRank())
 
 
