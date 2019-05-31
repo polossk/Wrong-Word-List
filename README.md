@@ -12,7 +12,8 @@ Personal Wrong Word List
 
 ## Distribution of Records
 
-| cycle |    1 |    2 |
-| :---- | ---: | ---: |
-| 1     |  460 |    2 |
+| cycle |    1 |    2 |    3 |
+| :---- | ---: | ---: | ---: |
+| 1     |  460 |    2 |      |
+| 2     |  583 |  151 |    2 |
 

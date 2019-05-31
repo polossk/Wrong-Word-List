@@ -1,6 +1,165 @@
-#2 ABCDEFG (1)
+#3 ABCDEFG (1)
 get through
 
-#2 OPQRST (1)
+#3 OPQRST (1)
 pay sb. back for sth.
+
+#2 ABCDEFG (63)
+afford
+all out
+anecdote
+anyhow
+apparent
+appeal
+appliance
+appreciable
+articulate
+baffle
+be bent on
+brink
+brisk
+call on
+carry through
+cast aside
+cast off
+compensate
+complement
+comprise
+confine
+confirm
+conspicuous
+contemplate
+context
+convict
+courtesy
+crude
+defile
+definitive
+delinquency
+detest
+deviate
+dismay
+dispute
+do with
+doctrine
+drastic
+dubious
+elated
+elicit
+embody
+engross
+equitable
+etiquette
+exhort
+expedient
+exuberant
+fatuous
+feasible
+fetter
+for one thing
+for the sake of
+forte
+gaily
+garment
+gauge
+get over
+go about
+go down
+go over
+graze
+grope
+
+#2 HIJKLMN (27)
+haunt
+hectic
+hedge
+hinder
+hubbub
+humidity
+ignorance
+imminent
+in sb.'s favour
+in the hands of
+incur
+indigenous
+indignant
+inflict
+inundate
+irrigation
+keep sb. on
+laden
+lavish
+lease
+look at
+mentality
+merit
+modest
+muddle
+neat
+neglect
+
+#2 OPQRST (57)
+obstinate
+ongoing
+oust
+outlying
+overt
+overwrought
+owe
+pageant
+paramount
+pass sth. off
+perceive
+percussion
+perturb
+pester
+plaintive
+platitude
+poise
+ponder
+portfolio
+postpone
+practicable
+predisposition
+preserve
+primitive
+proceed
+proficiency
+prompt
+prospectus
+referendum
+reticent
+retort
+revenue
+roam
+saturate
+scorn
+sensible
+session
+set in
+slander
+sluggish
+spacious
+stagger
+stake
+steady
+stick around
+subside
+surplus
+susceptible
+take pains to do
+tease
+temptation
+thorough
+transcend
+transgress
+try one's hand at
+turmoil
+typical
+
+#2 UVWXYZ (4)
+unrest
+violate
+wit
+yarn
 
