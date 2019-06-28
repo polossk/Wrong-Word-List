@@ -1,159 +1,304 @@
-#3 phrase (2)
+#4 phrase (1)
 get through
-pay sb. back for sth.
 
-#2 byrank (129)
-forte
-grope
-graze
-fetter
-defile
+#3 byrank (40)
 roam
-overwrought
-fatuous
 expedient
-baffle
-muddle
-laden
-practicable
-gaily
-slander
 perturb
 obstinate
 crude
-transgress
 tease
-hubbub
 appreciable
 platitude
 retort
-steady
 prospectus
-plaintive
-pester
 reticent
-lavish
 haunt
 detest
 engross
 scorn
 dismay
 poise
-exhort
-outlying
-elated
-indignant
-prompt
 predisposition
-percussion
-deviate
-primitive
-inundate
-stagger
-hedge
 exuberant
-hectic
-delinquency
-gauge
 articulate
-convict
 etiquette
-yarn
-complement
 saturate
 surplus
-preserve
 proficiency
-sluggish
 equitable
-anyhow
-merit
-oust
 pageant
 conspicuous
 paramount
-overt
 brisk
-unrest
-anecdote
 subside
-spacious
-humidity
-hinder
-drastic
 incur
-dispute
-stake
-lease
-brink
-dubious
-feasible
-susceptible
-irrigation
-neglect
-referendum
-imminent
-elicit
-transcend
-definitive
-postpone
 mentality
-turmoil
 inflict
 sensible
-garment
-appliance
-ponder
-temptation
-thorough
-ignorance
-wit
-courtesy
-confine
-embody
 compensate
-contemplate
-neat
-comprise
-portfolio
-doctrine
 indigenous
-modest
-owe
-ongoing
 violate
-appeal
-proceed
 apparent
 perceive
-confirm
-afford
 typical
-revenue
-session
-context
 
-#2 phrase (22)
-all out
-be bent on
+#3 phrase (12)
 call on
-carry through
 cast aside
-cast off
 do with
-for one thing
-for the sake of
 get over
-go about
 go down
-go over
 in sb.'s favour
 in the hands of
 keep sb. on
 look at
 pass sth. off
+pay sb. back for sth.
 set in
+
+#2 byrank (198)
+sysnonym
+undercharge
+cordial
+forte
+wander
+scold
+grope
+graze
+fetter
+defile
+intermediate
+foremost
+overwrought
+reasonable
+ramble
+tenable
+fatuous
+abridge
+rendezvous
+punctual
+offset
+baffle
+muddle
+alternate
+laden
+practicable
+gaily
+dose
+slander
+steep
+reverent
+transgress
+hubbub
+ungainly
+chaste
+steady
+posthumous
+quench
+plaintive
+elbow
+infest
+grand
+pester
+loath
+levy
+decrepit
+lavish
+handicap
+phobia
+gaunt
+exhort
+outlying
+elated
+indignant
+loom
+prompt
+mishap
+percussion
+deviate
+primitive
+despair
+beset
+flaunt
+misgiving
+observance
+inundate
+permissible
+stagger
+tame
+hedge
+virtuous
+malignant
+pertain
+hectic
+delinquency
+gauge
+tamper
+mischief
+convict
+fidelity
+exploit
+yarn
+complement
+concerted
+itinerary
+discreet
+stipulate
+frown
+commend
+preserve
+excerpt
+extravagant
+deplete
+sluggish
+gasp
+remedy
+imperative
+racket
+anyhow
+pertinent
+merit
+oust
+spill
+throughout
+vanity
+overt
+unrest
+clearance
+anecdote
+spacious
+oblivious
+humidity
+hinder
+advent
+drastic
+dispute
+pier
+appraisal
+accord
+discern
+stake
+allowance
+lease
+brink
+dubious
+feasible
+deteriorate
+restless
+shrub
+behalf
+susceptible
+apparatus
+irrigation
+conform
+restrain
+neglect
+referendum
+forthcoming
+imminent
+elicit
+transcend
+lucrative
+definitive
+spontaneous
+postpone
+turmoil
+succession
+garment
+appliance
+exceptional
+ponder
+temptation
+thorough
+incidence
+repetition
+ignorance
+wit
+mess
+magnificent
+courtesy
+outbreak
+confine
+disrupt
+acute
+mandatory
+embody
+consecutive
+contemplate
+neat
+reward
+comprise
+persist
+realm
+portfolio
+doctrine
+trunk
+adequate
+modest
+sophisticated
+owe
+ongoing
+distribute
+vital
+appeal
+insight
+attractive
+retain
+proceed
+impose
+rarely
+virtually
+rural
+confirm
+afford
+revenue
+expand
+session
+context
+
+#2 phrase (43)
+accountable for
+all out
+all told
+be bent on
+be set on sth.
+bear sth. out
+carry on
+carry out
+carry through
+cast off
+clear out
+come out
+come round
+come up against
+come up with
+day in and day out
+fall back on
+feel like
+for one thing
+for the sake of
+get along
+get nowhere
+get on
+go about
+go for sb.
+go on about sth.
+go over
+hold out
+know better
+lay bare
+let oneself go
+look out for sb.
+on and off
+pass off
+say to oneself
+set on sb.
+settle on sth.
+stand in
 stick around
+take away
 take pains to do
+take sth. upon oneself
 try one's hand at
 

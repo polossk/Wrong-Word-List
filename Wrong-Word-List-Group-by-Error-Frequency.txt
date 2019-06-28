@@ -1,165 +1,312 @@
-#3 ABCDEFG (1)
+#4 ABCDEFG (1)
 get through
 
-#3 OPQRST (1)
-pay sb. back for sth.
-
-#2 ABCDEFG (63)
-afford
-all out
-anecdote
-anyhow
+#3 ABCDEFG (19)
 apparent
-appeal
-appliance
 appreciable
 articulate
-baffle
-be bent on
-brink
 brisk
 call on
-carry through
 cast aside
-cast off
 compensate
-complement
-comprise
-confine
-confirm
 conspicuous
-contemplate
-context
-convict
-courtesy
 crude
-defile
-definitive
-delinquency
 detest
-deviate
 dismay
-dispute
 do with
-doctrine
-drastic
-dubious
-elated
-elicit
-embody
 engross
 equitable
 etiquette
-exhort
 expedient
 exuberant
-fatuous
-feasible
-fetter
-for one thing
-for the sake of
-forte
-gaily
-garment
-gauge
 get over
-go about
 go down
-go over
-graze
-grope
 
-#2 HIJKLMN (27)
+#3 HIJKLMN (9)
 haunt
-hectic
-hedge
-hinder
-hubbub
-humidity
-ignorance
-imminent
 in sb.'s favour
 in the hands of
 incur
 indigenous
-indignant
 inflict
-inundate
-irrigation
 keep sb. on
-laden
-lavish
-lease
 look at
 mentality
+
+#3 OPQRST (23)
+obstinate
+pageant
+paramount
+pass sth. off
+pay sb. back for sth.
+perceive
+perturb
+platitude
+poise
+predisposition
+proficiency
+prospectus
+reticent
+retort
+roam
+saturate
+scorn
+sensible
+set in
+subside
+surplus
+tease
+typical
+
+#3 UVWXYZ (1)
+violate
+
+#2 ABCDEFG (105)
+abridge
+accord
+accountable for
+acute
+adequate
+advent
+afford
+all out
+all told
+allowance
+alternate
+anecdote
+anyhow
+apparatus
+appeal
+appliance
+appraisal
+attractive
+baffle
+be bent on
+be set on sth.
+bear sth. out
+behalf
+beset
+brink
+carry on
+carry out
+carry through
+cast off
+chaste
+clear out
+clearance
+come out
+come round
+come up against
+come up with
+commend
+complement
+comprise
+concerted
+confine
+confirm
+conform
+consecutive
+contemplate
+context
+convict
+cordial
+courtesy
+day in and day out
+decrepit
+defile
+definitive
+delinquency
+deplete
+despair
+deteriorate
+deviate
+discern
+discreet
+dispute
+disrupt
+distribute
+doctrine
+dose
+drastic
+dubious
+elated
+elbow
+elicit
+embody
+exceptional
+excerpt
+exhort
+expand
+exploit
+extravagant
+fall back on
+fatuous
+feasible
+feel like
+fetter
+fidelity
+flaunt
+for one thing
+for the sake of
+foremost
+forte
+forthcoming
+frown
+gaily
+garment
+gasp
+gauge
+gaunt
+get along
+get nowhere
+get on
+go about
+go for sb.
+go on about sth.
+go over
+grand
+graze
+grope
+
+#2 HIJKLMN (42)
+handicap
+hectic
+hedge
+hinder
+hold out
+hubbub
+humidity
+ignorance
+imminent
+imperative
+impose
+incidence
+indignant
+infest
+insight
+intermediate
+inundate
+irrigation
+itinerary
+know better
+laden
+lavish
+lay bare
+lease
+let oneself go
+levy
+loath
+look out for sb.
+loom
+lucrative
+magnificent
+malignant
+mandatory
 merit
+mess
+mischief
+misgiving
+mishap
 modest
 muddle
 neat
 neglect
 
-#2 OPQRST (57)
-obstinate
+#2 OPQRST (84)
+oblivious
+observance
+offset
+on and off
 ongoing
 oust
+outbreak
 outlying
 overt
 overwrought
 owe
-pageant
-paramount
-pass sth. off
-perceive
+pass off
 percussion
-perturb
+permissible
+persist
+pertain
+pertinent
 pester
+phobia
+pier
 plaintive
-platitude
-poise
 ponder
 portfolio
+posthumous
 postpone
 practicable
-predisposition
 preserve
 primitive
 proceed
-proficiency
 prompt
-prospectus
+punctual
+quench
+racket
+ramble
+rarely
+realm
+reasonable
 referendum
-reticent
-retort
+remedy
+rendezvous
+repetition
+restless
+restrain
+retain
 revenue
-roam
-saturate
-scorn
-sensible
+reverent
+reward
+rural
+say to oneself
+scold
 session
-set in
+set on sb.
+settle on sth.
+shrub
 slander
 sluggish
+sophisticated
 spacious
+spill
+spontaneous
 stagger
 stake
+stand in
 steady
+steep
 stick around
-subside
-surplus
+stipulate
+succession
 susceptible
+sysnonym
+take away
 take pains to do
-tease
+take sth. upon oneself
+tame
+tamper
 temptation
+tenable
 thorough
+throughout
 transcend
 transgress
+trunk
 try one's hand at
 turmoil
-typical
 
-#2 UVWXYZ (4)
+#2 UVWXYZ (10)
+undercharge
+ungainly
 unrest
-violate
+vanity
+virtually
+virtuous
+vital
+wander
 wit
 yarn
 
