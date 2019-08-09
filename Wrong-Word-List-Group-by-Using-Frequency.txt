@@ -1,111 +1,183 @@
-#4 phrase (1)
-get through
-
-#3 byrank (40)
+#4 byrank (22)
 roam
 expedient
 perturb
 obstinate
 crude
-tease
-appreciable
 platitude
-retort
-prospectus
-reticent
-haunt
-detest
 engross
 scorn
 dismay
 poise
 predisposition
 exuberant
-articulate
 etiquette
-saturate
-surplus
 proficiency
 equitable
-pageant
 conspicuous
-paramount
 brisk
 subside
 incur
-mentality
-inflict
-sensible
-compensate
-indigenous
-violate
 apparent
 perceive
 typical
 
-#3 phrase (12)
+#4 phrase (7)
 call on
-cast aside
 do with
 get over
-go down
+get through
 in sb.'s favour
 in the hands of
 keep sb. on
+
+#3 byrank (66)
+cordial
+forte
+reasonable
+ramble
+rendezvous
+offset
+alternate
+dose
+reverent
+tease
+ungainly
+appreciable
+retort
+prospectus
+reticent
+levy
+haunt
+detest
+beset
+flaunt
+observance
+malignant
+pertain
+mischief
+articulate
+fidelity
+itinerary
+saturate
+stipulate
+frown
+surplus
+extravagant
+gasp
+oust
+pageant
+paramount
+clearance
+appraisal
+brink
+dubious
+restless
+conform
+referendum
+elicit
+lucrative
+spontaneous
+postpone
+mentality
+inflict
+sensible
+exceptional
+ponder
+incidence
+magnificent
+courtesy
+outbreak
+mandatory
+compensate
+reward
+comprise
+portfolio
+indigenous
+violate
+retain
+impose
+context
+
+#3 phrase (18)
+all told
+cast aside
+cast off
+come up against
+for the sake of
+get on
+go about
+go down
+go on about sth.
+hold out
+lay bare
 look at
+look out for sb.
+pass off
 pass sth. off
 pay sb. back for sth.
 set in
+stand in
 
-#2 byrank (198)
+#2 byrank (229)
 sysnonym
 undercharge
-cordial
-forte
+permanent
 wander
+sheet
 scold
+meagre
 grope
 graze
 fetter
+manacle
 defile
+epidemic
 intermediate
 foremost
+ostentation
 overwrought
-reasonable
-ramble
+digest
+adept
 tenable
 fatuous
 abridge
-rendezvous
 punctual
-offset
+coed
 baffle
 muddle
-alternate
 laden
+pollinate
+magnanimous
 practicable
 gaily
-dose
+reproach
 slander
 steep
-reverent
+notable
+ostensible
 transgress
 hubbub
-ungainly
+mercantile
+delirium
 chaste
 steady
+blunt
+verge
 posthumous
 quench
 plaintive
+precipice
 elbow
 infest
 grand
 pester
 loath
-levy
 decrepit
 lavish
+lull
 handicap
+somewhat
 phobia
 gaunt
 exhort
@@ -114,59 +186,71 @@ elated
 indignant
 loom
 prompt
+slope
+lament
 mishap
+hail
 percussion
 deviate
 primitive
 despair
-beset
-flaunt
 misgiving
-observance
+trustworthy
 inundate
 permissible
 stagger
+pendulum
 tame
 hedge
+mania
 virtuous
-malignant
-pertain
+cumbersome
 hectic
 delinquency
+suspense
+pervade
+ravage
 gauge
 tamper
-mischief
 convict
-fidelity
 exploit
+vigilant
 yarn
 complement
 concerted
-itinerary
 discreet
-stipulate
-frown
+overdue
+ardent
+original
+reciprocal
 commend
+majestic
 preserve
 excerpt
-extravagant
+interrogate
+quaint
 deplete
 sluggish
-gasp
+zest
 remedy
 imperative
 racket
 anyhow
 pertinent
 merit
-oust
 spill
 throughout
 vanity
+commence
+impetus
 overt
 unrest
-clearance
+indispensable
+frail
 anecdote
+versatile
+glimpse
+commemorate
 spacious
 oblivious
 humidity
@@ -175,66 +259,72 @@ advent
 drastic
 dispute
 pier
-appraisal
+specification
 accord
 discern
 stake
+militant
 allowance
 lease
-brink
-dubious
 feasible
 deteriorate
-restless
+plight
+mediate
+setback
+renovation
 shrub
 behalf
 susceptible
+apt
+prevalent
 apparatus
 irrigation
-conform
+withstand
+dispose
 restrain
 neglect
-referendum
+discriminate
 forthcoming
 imminent
-elicit
 transcend
-lucrative
 definitive
-spontaneous
-postpone
+motif
 turmoil
 succession
+exert
 garment
 appliance
-exceptional
-ponder
 temptation
 thorough
-incidence
+fascinate
 repetition
 ignorance
 wit
 mess
-magnificent
-courtesy
-outbreak
+penetrate
 confine
+allege
 disrupt
 acute
-mandatory
 embody
 consecutive
+speculate
 contemplate
 neat
-reward
-comprise
 persist
+illusion
+terrific
+dignity
+civic
 realm
-portfolio
+counterpart
 doctrine
+encounter
 trunk
+harsh
 adequate
+impressive
+grant
 modest
 sophisticated
 owe
@@ -244,61 +334,71 @@ vital
 appeal
 insight
 attractive
-retain
 proceed
-impose
+criterion
+estimate
+convention
+deficit
+elsewhere
 rarely
 virtually
 rural
 confirm
 afford
+obvious
 revenue
 expand
 session
-context
 
-#2 phrase (43)
+#2 phrase (50)
 accountable for
+all in all
 all out
-all told
+all the same to
+at fault
+back sb. up
 be bent on
+be on edge
+be on to
 be set on sth.
 bear sth. out
+bear with
 carry on
 carry out
 carry through
-cast off
 clear out
+clear up
+come along
 come out
 come round
-come up against
 come up with
 day in and day out
 fall back on
 feel like
 for one thing
-for the sake of
 get along
+get at sb.
 get nowhere
-get on
-go about
+get the better of
+give way
 go for sb.
-go on about sth.
 go over
-hold out
+hit it off
 know better
-lay bare
+lay out
 let oneself go
-look out for sb.
 on and off
-pass off
+pass the time of day with
+pull through
 say to oneself
+set about sth.
 set on sb.
 settle on sth.
-stand in
 stick around
+stick sth. out
 take away
 take pains to do
+take sth. into account
 take sth. upon oneself
 try one's hand at
 

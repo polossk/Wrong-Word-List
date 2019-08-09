@@ -1,17 +1,9 @@
-#4 ABCDEFG (1)
-get through
-
-#3 ABCDEFG (19)
+#4 ABCDEFG (14)
 apparent
-appreciable
-articulate
 brisk
 call on
-cast aside
-compensate
 conspicuous
 crude
-detest
 dismay
 do with
 engross
@@ -20,293 +12,403 @@ etiquette
 expedient
 exuberant
 get over
-go down
+get through
 
-#3 HIJKLMN (9)
-haunt
+#4 HIJKLMN (4)
 in sb.'s favour
 in the hands of
 incur
-indigenous
-inflict
 keep sb. on
-look at
-mentality
 
-#3 OPQRST (23)
+#4 OPQRST (11)
 obstinate
-pageant
-paramount
-pass sth. off
-pay sb. back for sth.
 perceive
 perturb
 platitude
 poise
 predisposition
 proficiency
-prospectus
-reticent
-retort
 roam
-saturate
 scorn
-sensible
-set in
 subside
-surplus
-tease
 typical
 
-#3 UVWXYZ (1)
+#3 ABCDEFG (33)
+all told
+alternate
+appraisal
+appreciable
+articulate
+beset
+brink
+cast aside
+cast off
+clearance
+come up against
+compensate
+comprise
+conform
+context
+cordial
+courtesy
+detest
+dose
+dubious
+elicit
+exceptional
+extravagant
+fidelity
+flaunt
+for the sake of
+forte
+frown
+gasp
+get on
+go about
+go down
+go on about sth.
+
+#3 HIJKLMN (17)
+haunt
+hold out
+impose
+incidence
+indigenous
+inflict
+itinerary
+lay bare
+levy
+look at
+look out for sb.
+lucrative
+magnificent
+malignant
+mandatory
+mentality
+mischief
+
+#3 OPQRST (32)
+observance
+offset
+oust
+outbreak
+pageant
+paramount
+pass off
+pass sth. off
+pay sb. back for sth.
+pertain
+ponder
+portfolio
+postpone
+prospectus
+ramble
+reasonable
+referendum
+rendezvous
+restless
+retain
+reticent
+retort
+reverent
+reward
+saturate
+sensible
+set in
+spontaneous
+stand in
+stipulate
+surplus
+tease
+
+#3 UVWXYZ (2)
+ungainly
 violate
 
-#2 ABCDEFG (105)
+#2 ABCDEFG (118)
 abridge
 accord
 accountable for
 acute
+adept
 adequate
 advent
 afford
+all in all
 all out
-all told
+all the same to
+allege
 allowance
-alternate
 anecdote
 anyhow
 apparatus
 appeal
 appliance
-appraisal
+apt
+ardent
+at fault
 attractive
+back sb. up
 baffle
 be bent on
+be on edge
+be on to
 be set on sth.
 bear sth. out
+bear with
 behalf
-beset
-brink
+blunt
 carry on
 carry out
 carry through
-cast off
 chaste
+civic
 clear out
-clearance
+clear up
+coed
+come along
 come out
 come round
-come up against
 come up with
+commemorate
+commence
 commend
 complement
-comprise
 concerted
 confine
 confirm
-conform
 consecutive
 contemplate
-context
+convention
 convict
-cordial
-courtesy
+counterpart
+criterion
+cumbersome
 day in and day out
 decrepit
+deficit
 defile
 definitive
 delinquency
+delirium
 deplete
 despair
 deteriorate
 deviate
+digest
+dignity
 discern
 discreet
+discriminate
+dispose
 dispute
 disrupt
 distribute
 doctrine
-dose
 drastic
-dubious
 elated
 elbow
-elicit
+elsewhere
 embody
-exceptional
+encounter
+epidemic
+estimate
 excerpt
+exert
 exhort
 expand
 exploit
-extravagant
 fall back on
+fascinate
 fatuous
 feasible
 feel like
 fetter
-fidelity
-flaunt
 for one thing
-for the sake of
 foremost
-forte
 forthcoming
-frown
+frail
 gaily
 garment
-gasp
 gauge
 gaunt
 get along
+get at sb.
 get nowhere
-get on
-go about
+get the better of
+give way
+glimpse
 go for sb.
-go on about sth.
 go over
 grand
+grant
 graze
 grope
 
-#2 HIJKLMN (42)
+#2 HIJKLMN (51)
+hail
 handicap
+harsh
 hectic
 hedge
 hinder
-hold out
+hit it off
 hubbub
 humidity
 ignorance
+illusion
 imminent
 imperative
-impose
-incidence
+impetus
+impressive
 indignant
+indispensable
 infest
 insight
 intermediate
+interrogate
 inundate
 irrigation
-itinerary
 know better
 laden
+lament
 lavish
-lay bare
+lay out
 lease
 let oneself go
-levy
 loath
-look out for sb.
 loom
-lucrative
-magnificent
-malignant
-mandatory
+lull
+magnanimous
+majestic
+manacle
+mania
+meagre
+mediate
+mercantile
 merit
 mess
-mischief
+militant
 misgiving
 mishap
 modest
+motif
 muddle
 neat
 neglect
+notable
 
-#2 OPQRST (84)
+#2 OPQRST (96)
 oblivious
-observance
-offset
+obvious
 on and off
 ongoing
-oust
-outbreak
+original
+ostensible
+ostentation
 outlying
+overdue
 overt
 overwrought
 owe
-pass off
+pass the time of day with
+pendulum
+penetrate
 percussion
+permanent
 permissible
 persist
-pertain
 pertinent
+pervade
 pester
 phobia
 pier
 plaintive
-ponder
-portfolio
+plight
+pollinate
 posthumous
-postpone
 practicable
+precipice
 preserve
+prevalent
 primitive
 proceed
 prompt
+pull through
 punctual
+quaint
 quench
 racket
-ramble
 rarely
+ravage
 realm
-reasonable
-referendum
+reciprocal
 remedy
-rendezvous
+renovation
 repetition
-restless
+reproach
 restrain
-retain
 revenue
-reverent
-reward
 rural
 say to oneself
 scold
 session
+set about sth.
 set on sb.
+setback
 settle on sth.
+sheet
 shrub
 slander
+slope
 sluggish
+somewhat
 sophisticated
 spacious
+specification
+speculate
 spill
-spontaneous
 stagger
 stake
-stand in
 steady
 steep
 stick around
-stipulate
+stick sth. out
 succession
 susceptible
+suspense
 sysnonym
 take away
 take pains to do
+take sth. into account
 take sth. upon oneself
 tame
 tamper
 temptation
 tenable
+terrific
 thorough
 throughout
 transcend
 transgress
 trunk
+trustworthy
 try one's hand at
 turmoil
 
-#2 UVWXYZ (10)
+#2 UVWXYZ (14)
 undercharge
-ungainly
 unrest
 vanity
+verge
+versatile
+vigilant
 virtually
 virtuous
 vital
 wander
 wit
+withstand
 yarn
+zest
 
