@@ -1,83 +1,111 @@
-#7 byrank (5)
+#8 byrank (3)
 roam
 perturb
-engross
 equitable
-perceive
 
-#7 phrase (3)
+#8 phrase (3)
 call on
 in sb.'s favour
 in the hands of
 
-#6 byrank (11)
+#7 byrank (10)
 cordial
 reasonable
 crude
+engross
 scorn
 extravagant
 proficiency
-conspicuous
 subside
 incur
-brink
-exceptional
+perceive
 
-#6 phrase (4)
-do with
+#7 phrase (3)
 get over
-hold out
+lay bare
 stand in
 
-#5 byrank (24)
+#6 byrank (11)
 forte
 ostentation
-adept
 fatuous
-platitude
-elbow
 dismay
-poise
 etiquette
-frown
-surplus
-anyhow
+conspicuous
+brink
 restless
 conform
+exceptional
+impose
+
+#6 phrase (6)
+be bent on
+be set on sth.
+come up against
+do with
+hold out
+settle on sth.
+
+#5 byrank (33)
+adept
+tenable
+abridge
+obstinate
+platitude
+elbow
+poise
+somewhat
+mania
+frown
+surplus
+tedious
+flatter
+anyhow
+impetus
+mundane
+advent
+pier
+apt
+apparatus
+wary
 fascinate
 penetrate
 outbreak
 mandatory
+clarify
 speculate
 terrific
+readily
+counterpart
 violate
 retain
 apparent
-impose
 
 #5 phrase (13)
-be bent on
-be set on sth.
+accountable for
 bear sth. out
 bear with
-come up against
+get through
 go about
 go down
 keep sb. on
-lay bare
+live with
+look at
+make out
 set in
-settle on sth.
 stick sth. out
 take sth. into account
 
-#4 byrank (68)
+#4 byrank (74)
 superintend
-tenable
-abridge
+manifest
+foremost
+trifle
 expedient
+divine
+gaily
 dose
 steep
-obstinate
 reverent
 notable
 appreciable
@@ -86,103 +114,113 @@ delirium
 prospectus
 aggregate
 haunt
-somewhat
+detest
 phobia
 gaunt
 predisposition
+mishap
 beset
 misgiving
 permissible
-mania
 virtuous
 exuberant
+trek
 hectic
 suspense
 inaugurate
 fidelity
 complement
+overdue
 erratic
-tedious
-flatter
+remedy
+imperative
+discrete
 oust
-impetus
 paramount
+redeem
+overt
 brisk
+unrest
 clearance
-mundane
-advent
-pier
+grill
+appraisal
 mediate
 behalf
-apt
-apparatus
 withstand
 elicit
 postpone
 mentality
 sensible
 garment
-wary
 temptation
 incidence
 wit
+allege
 spray
-clarify
 autonomy
 neat
-readily
-counterpart
 indigenous
+ideology
+obstacle
 impressive
 sophisticated
+ongoing
 vulnerable
+appeal
 attractive
+criterion
 estimate
 typical
 
-#4 phrase (15)
-accountable for
+#4 phrase (20)
+all in all
+all out
+carry on
+carry out
 clear out
+come across sb.
+fall back on
 for the sake of
-get through
+get at sb.
 give way
+go on about sth.
 hit it off
+keep an eye on
 lay out
-live with
-look at
 look out for sb.
-make out
 on account of
 pass sth. off
 pull through
+stick around
 try one's hand at
 
-#3 byrank (137)
+#3 byrank (154)
 permanent
 practical
 fetter
-manifest
+antique
 intermediate
-foremost
-trifle
 cartoon
 fret
 ramble
 rendezvous
 din
 offset
+indemnity
 muddle
 alternate
-divine
-gaily
 reproach
+venerate
 ostensible
 defiance
+menace
 tease
 ungainly
 stumble
 flame
 retort
+antecedent
+toil
 verge
 reticent
 exasperate
@@ -190,150 +228,165 @@ levy
 repent
 fruition
 exorbitant
-detest
+bind
+perplex
 infringe
-mishap
 despair
+defect
 flaunt
 observance
+inundate
 stagger
+tame
 hedge
 fault
 malignant
-trek
 prerogative
 pertain
+wrench
+feeble
 mischief
 articulate
 convict
 overhaul
 commotion
+exploit
 concerted
 itinerary
 discreet
 saturate
-overdue
 stipulate
 reciprocal
+resilience
 majestic
 preserve
 quaint
 gasp
-remedy
-imperative
 errand
-discrete
 impart
 pageant
 throughout
 vanity
 commence
+falter
 tug
-redeem
-overt
-unrest
+mitigate
 frail
 glimpse
+overhear
 denomination
 irritate
-grill
+liable
 specification
-appraisal
+ordeal
 militant
 dubious
 feasible
 deteriorate
+escalate
 revolve
+setback
 renovation
 consolidate
+obscure
+discrepancy
 restrain
 neglect
 discriminate
 referendum
 forthcoming
+imminent
+inquire
 oblige
 transcend
 lucrative
+intimidate
 spontaneous
 inflict
 adverse
+vigorous
 ponder
 thrill
 thorough
 ignorance
 mess
+immense
 magnificent
 shatter
 courtesy
-allege
 disrupt
+induce
+acute
 designate
+affection
 compensate
+frustrate
 contemplate
+eligible
 reward
 comprise
 illusion
 practitioner
 dignity
+strip
 advocate
 portfolio
 doctrine
-ideology
-obstacle
 render
+humanity
 adequate
 tendency
 owe
-ongoing
 vital
-appeal
-criterion
+proceed
+assure
 anxiety
 deficit
 elsewhere
+convince
+enormous
 afford
 obvious
 expand
 context
 
-#3 phrase (30)
-all in all
-all out
+#3 phrase (27)
+above reproach
 all the same to
 all told
 back sb. up
 be on edge
 be on to
-carry on
-carry out
 carry through
 cast aside
 cast off
-come across sb.
+clear up
 come along
-fall back on
 feel like
-get at sb.
+for one thing
 get on
 get the better of
-go on about sth.
+give in
 have to do with
-keep an eye on
+hold the line
 live through
 make off
+nothing to do with
 pass off
 pay sb. back for sth.
 set about sth.
-stick around
 take sb. off
 take sth. in
+take sth. over
 
-#2 byrank (287)
+#2 byrank (285)
 sysnonym
 undercharge
 glamour
+layoff
 catching
 wander
+corporate
 sheet
 scold
 aboriginal
@@ -343,7 +396,6 @@ grope
 graze
 volatile
 manacle
-antique
 prior
 defile
 epidemic
@@ -358,10 +410,11 @@ overlook
 crumble
 digest
 swerve
+dazzle
+damp
 punctual
 coed
 eddy
-indemnity
 baffle
 laden
 pollinate
@@ -371,26 +424,26 @@ faint
 practicable
 slander
 steer
-venerate
+tender
 transgress
-menace
 hubbub
 neurosis
 premise
-antecedent
 chaste
 steady
-toil
+extort
 blunt
 posthumous
 quench
 plaintive
 precipice
+nicety
 hamper
 bound
 vex
 infest
 grand
+respiration
 pester
 pompous
 loath
@@ -399,14 +452,12 @@ synonym
 decrepit
 frugal
 lavish
-bind
 compact
 lull
 lenient
 handicap
 morbid
 well-to-do
-perplex
 exhort
 outlying
 piston
@@ -414,18 +465,21 @@ elated
 indignant
 vogue
 loom
+tenacious
 distress
 prompt
 slope
 lament
+vacuum
 hail
+grind
 percussion
 obligatory
 inert
 dilapidated
 deviate
 primitive
-defect
+strait
 grit
 wail
 attendant
@@ -433,34 +487,35 @@ memento
 vindicate
 trustworthy
 pungent
-inundate
+redundant
 juvenile
 undue
 pendulum
-tame
 subdue
+plow
 stoop
 cumbersome
 glitter
 lounge
 delinquency
-wrench
-feeble
 pervade
 brew
 ravage
 gauge
 tamper
+breach
 predominant
 superstition
-exploit
 vigilant
 yarn
+eminent
+meticulous
+captive
 ardent
 original
 detrimental
 propulsion
-resilience
+emigrate
 commend
 excerpt
 interrogate
@@ -477,22 +532,26 @@ deflect
 metabolism
 spill
 ensue
-falter
 dissertation
-mitigate
 indispensable
 anecdote
 overtake
 obsolete
+unanimous
 chart
 versatile
+refreshing
+rampant
+abrupt
+simultaneous
 commemorate
 spacious
-overhear
+rival
+gracious
 contest
 oblivious
 humidity
-liable
+superficial
 hinder
 drastic
 heighten
@@ -504,40 +563,37 @@ accord
 endurance
 discern
 stake
-ordeal
 culminate
 allowance
 lease
 arrogant
-escalate
+pragmatic
 frantic
 plight
 inhibit
 cathedral
-setback
 intricate
 shrub
 fixture
 susceptible
-obscure
+elaborate
 prevalent
 irrigation
 dispose
-discrepancy
-imminent
-inquire
 deter
-intimidate
 distort
 definitive
 drift
 motif
 uneasy
+adhere
 turmoil
 ritual
 succession
+breed
 potent
-vigorous
+contempt
+marital
 prone
 exert
 inhabit
@@ -546,44 +602,38 @@ repetition
 destructive
 fabulous
 haven
-immense
 reserve
 confine
 attain
-induce
-acute
 pesticide
-affection
 embody
 monetary
 viable
 evoke
-frustrate
 consecutive
 brutal
 patron
 dumb
 conscience
-eligible
 rational
 compel
 persist
 aesthetic
 verdict
+immune
 concede
 lane
 dilemma
 civic
-strip
 realm
 generous
+determination
 conscious
 wilderness
 behave
 encounter
 facilitate
 trunk
-humanity
 harsh
 integrity
 distinct
@@ -593,39 +643,37 @@ undergo
 catholic
 modest
 sufficient
+controversial
 distribute
 insight
 detect
 conservative
 occupy
-proceed
 incorporate
 nevertheless
-assure
 recipe
 convention
 rarely
 deserve
 virtually
-convince
+physician
 rural
-enormous
 rely
 confirm
 circumstance
+outcome
 revenue
 session
 maintain
 
-#2 phrase (61)
-above reproach
+#2 phrase (59)
 at all times
 at fault
 at the mercy of
 behind time
 border on
 catch on
-clear up
+come about
 come apart
 come off
 come out
@@ -638,21 +686,21 @@ day in and day out
 do sb. a favour
 find fault with
 first and foremost
-for one thing
 get along
 get into
 get nowhere
 get round to doing sth.
-give in
 give oneself airs
 go for sb.
 go over
+go without
 had better
 have the making of
 hold on
-hold the line
+keep at
 keep in with sb.
 keep on
+keep sb. up
 keep sth. to oneself
 know better
 leave sb. alone
@@ -663,7 +711,6 @@ live up to
 look down on
 look one's best
 look over
-nothing to do with
 on and off
 on and on
 pass sb. by
@@ -674,9 +721,9 @@ set on sb.
 set sth. back
 settle in
 single out
+snap at sth.
 take away
 take pains to do
-take sth. over
 take sth. upon oneself
 the gist
 
