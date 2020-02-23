@@ -1,150 +1,178 @@
 #12 OPQRST (1)
 roam
 
-#11 HIJKLMN (1)
+#11 ABCDEFG (2)
+engross
+forte
+
+#11 HIJKLMN (3)
 in sb.'s favour
+in the hands of
+incur
 
 #11 OPQRST (1)
 perturb
 
-#10 ABCDEFG (3)
+#10 ABCDEFG (8)
+be bent on
+be set on sth.
 call on
-engross
-forte
+conform
+etiquette
+extravagant
+flatter
+get over
 
-#10 HIJKLMN (3)
-in the hands of
-incur
+#10 HIJKLMN (2)
 lay bare
+live with
 
-#10 OPQRST (4)
+#10 OPQRST (6)
+ostentation
+perceive
 proficiency
 reasonable
 stand in
 subside
 
-#9 ABCDEFG (10)
-be bent on
-be set on sth.
+#9 ABCDEFG (5)
 clarify
-conform
+cordial
 equitable
-etiquette
-extravagant
+fall back on
 fatuous
-flatter
-get over
 
 #9 HIJKLMN (1)
-live with
+imperative
 
-#9 OPQRST (3)
-ostentation
-perceive
+#9 OPQRST (1)
 tedious
 
-#8 ABCDEFG (9)
+#8 ABCDEFG (12)
+apparatus
 brink
+come across sb.
 come up against
 conspicuous
-cordial
 crude
 dismay
-fall back on
-for the sake of
-get through
-
-#8 HIJKLMN (3)
-imperative
-impose
-look at
-
-#8 OPQRST (2)
-scorn
-settle on sth.
-
-#8 UVWXYZ (1)
-wary
-
-#7 ABCDEFG (10)
-aggregate
-apparatus
-bear with
-come across sb.
-do with
 estimate
-frail
+for the sake of
 frustrate
 gaunt
-go about
+get through
 
-#7 HIJKLMN (4)
-hold out
+#8 HIJKLMN (5)
+impose
 liable
+look at
 misgiving
 mishap
 
-#7 OPQRST (10)
-pass sth. off
+#8 OPQRST (8)
 phobia
 pier
 readily
 redeem
-restless
+scorn
+settle on sth.
 somewhat
-terrific
 trek
+
+#8 UVWXYZ (2)
+venerate
+wary
+
+#7 ABCDEFG (9)
+above reproach
+aggregate
+bear with
+counterpart
+do with
+erratic
+frail
+frown
+go about
+
+#7 HIJKLMN (5)
+hold out
+lay out
+look out for sb.
+mandatory
+mundane
+
+#7 OPQRST (9)
+obstinate
+ongoing
+outbreak
+pass sth. off
+restless
+set about sth.
+take sth. over
+terrific
 try one's hand at
 
 #7 UVWXYZ (1)
-venerate
+wit
 
-#6 ABCDEFG (12)
-above reproach
+#6 ABCDEFG (18)
 afford
 all out
 allege
 apparent
+appraisal
+be on to
 bear sth. out
+behalf
+cartoon
 complement
-counterpart
-erratic
+criterion
+defiance
+discrepancy
+discrete
 exceptional
-frown
+garment
+glitter
 go down
 
-#6 HIJKLMN (12)
+#6 HIJKLMN (16)
 hectic
 ignorance
+impetus
 impressive
+indemnity
 indigenous
+induce
+inquire
 intimidate
+irritate
 keep sb. on
-lay out
-look out for sb.
-mandatory
+look over
+magnificent
 mania
 mercantile
-mundane
+neat
 
-#6 OPQRST (11)
+#6 OPQRST (12)
 obscure
-obstinate
-ongoing
-outbreak
+on account of
+overdue
+overhear
 penetrate
+permanent
 retain
-set about sth.
 set in
+stagger
 steep
+surplus
 take sth. into account
-take sth. over
 
-#6 UVWXYZ (2)
+#6 UVWXYZ (3)
+versus
 vigorous
-wit
+violate
 
-#5 ABCDEFG (36)
+#5 ABCDEFG (35)
 abridge
 accountable for
 adept
@@ -153,88 +181,86 @@ all the same to
 antecedent
 antique
 anyhow
-appraisal
 apt
 attractive
 autonomy
-be on to
-behalf
 beset
+captive
 carry on
-cartoon
+carry out
 clear up
 commotion
-criterion
+conservative
 day in and day out
-defiance
 designate
+determination
 detest
 discreet
-discrepancy
-discrete
+discriminate
 divine
+dose
 elbow
 elicit
+emigrate
 facilitate
 fascinate
-garment
+flame
 give in
-glitter
+give way
 go on about sth.
 
-#5 HIJKLMN (17)
+#5 HIJKLMN (13)
 hit it off
-impetus
+immense
+immune
 inaugurate
 incidence
-indemnity
-inquire
-irritate
 keep in with sb.
-look over
-magnificent
 majestic
 make out
 mediate
 mentality
+mess
 mitigate
-neat
 notable
 
-#5 OPQRST (24)
-on account of
-overdue
-overhear
+#5 OPQRST (26)
 overlook
 overt
-permanent
 permissible
 perplex
 platitude
 poise
+practitioner
 prerogative
 preserve
 reciprocal
+referendum
 refreshing
+sensible
+setback
+sophisticated
 speculate
-stagger
+steer
 stick around
 stick sth. out
 stipulate
+subscribe
 superintend
-surplus
+take sth. in
 temptation
 tenable
 trifle
 
-#5 UVWXYZ (5)
+#5 UVWXYZ (6)
 undercharge
-versus
-violate
+uneasy
 virtuous
+whilst
+withstand
 wrench
 
-#4 ABCDEFG (50)
+#4 ABCDEFG (48)
 acute
 adverse
 advocate
@@ -249,27 +275,23 @@ assure
 be on edge
 brisk
 brutal
-captive
-carry out
+chart
 clear out
 clearance
 come along
 come up with
+comprise
 concerted
-conservative
 contemplate
 contempt
 convene
 courtesy
 delirium
 denomination
-determination
-discriminate
-dose
+do sb. a favour
 dumb
 eligible
 elsewhere
-emigrate
 enormous
 exasperate
 excerpt
@@ -278,80 +300,80 @@ expedient
 exuberant
 falter
 feasible
+feeble
+fetter
 fidelity
-flame
 foremost
 gaily
 get at sb.
-give way
+get down to business
+get nowhere
 grill
 
-#4 HIJKLMN (21)
+#4 HIJKLMN (22)
 haunt
 hold the line
+humanity
 ideology
-immense
-immune
 impart
-induce
+incorporate
 infest
 inflict
 infringe
+inspire
 inundate
 keep an eye on
+keep on
 keep sth. to oneself
 levy
 make off
 manifest
 menace
-mess
 mischief
+muddle
 nevertheless
 nothing to do with
 
-#4 OPQRST (39)
+#4 OPQRST (37)
+oar
 obstacle
 obvious
 ordeal
 ostensible
 oust
 outcome
+overrule
 paramount
 pass off
 pass sb. by
+petition
 piston
 ponder
 postpone
-practitioner
+practical
 predisposition
+probation
 prone
 prospectus
 pull through
-referendum
 remedy
 repent
 reproach
 retort
 reverent
 sector
-sensible
 session
 set sth. back
-setback
-sophisticated
 spontaneous
 spray
-steer
 strip
-subscribe
+strive
 suspense
 synonym
-take sth. in
 toil
 typical
 
-#4 UVWXYZ (10)
-uneasy
+#4 UVWXYZ (7)
 ungainly
 unrest
 vanity
@@ -359,12 +381,11 @@ verge
 viable
 vice
 vulnerable
-whilst
-withstand
 
-#3 ABCDEFG (75)
+#3 ABCDEFG (80)
 adequate
 alternate
+amateur
 anxiety
 articulate
 at the mercy of
@@ -373,20 +394,23 @@ back sb. up
 behave
 behind time
 bind
+blunt
 breed
 brew
+bribe
 carry through
 cast aside
 cast off
-chart
+come about
 commence
+compact
 compensate
-comprise
 concede
 conscience
 conscious
 consolidate
 context
+controversial
 convention
 convict
 convince
@@ -400,6 +424,7 @@ deter
 deteriorate
 detrimental
 dignity
+dilapidated
 dilemma
 din
 dispose
@@ -407,12 +432,14 @@ disrupt
 distinct
 distinguish
 distort
-do sb. a favour
+distress
 doctrine
 drastic
+drowse
 dubious
 enclose
 endurance
+ensue
 errand
 escalate
 evoke
@@ -420,9 +447,7 @@ exacerbate
 expand
 exploit
 fault
-feeble
 feel like
-fetter
 flaunt
 for one thing
 forthcoming
@@ -430,58 +455,57 @@ frantic
 fret
 fruition
 gasp
-get down to business
-get nowhere
+get off
 get on
+get round to doing sth.
 get the better of
 glimpse
 go without
 gracious
 grant
 
-#3 HIJKLMN (32)
+#3 HIJKLMN (33)
 have to do with
 haven
 hedge
-humanity
+hilarious
 illusion
 imminent
 inclusive
-incorporate
 indispensable
 inhibit
-inspire
 intent
 intermediate
 interrogate
 intricate
+irony
 itinerary
+keen
 keep at
-keep on
 keep sb. up
 lease
 let sb. down
 live on
 live through
+loll
 look one's best
+lounge
 lucrative
 magnanimous
 make for sb.
 malignant
 militant
-muddle
 mythology
 neglect
+not to say
 
-#3 OPQRST (63)
-oar
+#3 OPQRST (62)
 oblige
 observance
 offset
 on and on
 outlying
 overhaul
-overrule
 overwrought
 owe
 pageant
@@ -490,18 +514,17 @@ patron
 pay sb. back for sth.
 persist
 pertain
-petition
 physician
 piecemeal
 plight
 portfolio
-practical
 predominant
-probation
 proceed
 propulsion
+prosecute
 quaint
 ramble
+rampant
 rely
 render
 rendezvous
@@ -520,14 +543,16 @@ shatter
 specification
 specimen
 spectator
-strive
+stimulus
 stumble
 subdue
 sufficient
+suspicious
 take after sb.
 take sb. off
 tame
 tease
+telling
 tendency
 the gist
 thorough
@@ -545,7 +570,7 @@ vital
 volatile
 wail
 
-#2 ABCDEFG (146)
+#2 ABCDEFG (140)
 Christian
 aboriginal
 abrupt
@@ -555,9 +580,9 @@ adhere
 afflict
 aggravate
 aggressive
+agitation
 aisle
 allowance
-amateur
 anecdote
 applaud
 appliance
@@ -576,11 +601,9 @@ be at odds
 be on good terms
 beat around the bush
 berth
-blunt
 border on
 bound
 breach
-bribe
 bring about
 call off
 catch on
@@ -593,7 +616,6 @@ circumference
 circumstance
 civic
 coed
-come about
 come apart
 come off
 come out
@@ -603,7 +625,6 @@ come to terms
 come upon
 commemorate
 commend
-compact
 compel
 compromise
 compulsory
@@ -616,7 +637,6 @@ consign
 constrain
 constrict
 contest
-controversial
 corporate
 crumble
 culminate
@@ -641,16 +661,14 @@ detect
 deviate
 devise
 diagram
+differentiate
 digest
-dilapidated
 discern
 dispute
 dissertation
-distress
 distribute
 do sth. with a bad grace
 drift
-drowse
 economic
 eddy
 elaborate
@@ -659,9 +677,10 @@ embody
 eminent
 emotion
 encounter
-ensue
 epidemic
+erroneous
 everlasting
+exemplify
 exert
 exhilarate
 exhort
@@ -672,16 +691,16 @@ find fault with
 first and foremost
 fixture
 flake
+flavor
 frugal
 gauge
 generous
 get along
 get into
-get off
-get round to doing sth.
 get somewhere
 give oneself airs
 glamour
+glorious
 go for sb.
 go over
 go with sb.
@@ -693,20 +712,21 @@ grope
 growl
 grumble
 
-#2 HIJKLMN (73)
+#2 HIJKLMN (74)
 had better
 hail
 hamper
 handicap
 hang on
 harsh
+hasty
 have the making of
 heighten
-hilarious
 hinder
 hold on
 hostile
 hubbub
+humdrum
 humidity
 in time
 indicative
@@ -717,17 +737,17 @@ inhabit
 insight
 integrity
 invariably
-irony
 irrigation
 junk
 juvenile
-keen
+keep sb. out
 knob
 know better
 laden
 lament
 lane
 languid
+latent
 lavish
 layoff
 leave sb. alone
@@ -735,13 +755,12 @@ lenient
 let oneself go
 live up to
 loath
-loll
 look back
 look down on
+look forward to
 look one’s best
 loom
 lose face
-lounge
 lull
 madden
 maintain
@@ -750,6 +769,7 @@ malnutrition
 manacle
 marital
 meagre
+meddle
 melancholy
 memento
 merit
@@ -766,9 +786,9 @@ mortgage
 motif
 neurosis
 nicety
-not to say
+nullify
 
-#2 OPQRST (125)
+#2 OPQRST (127)
 obligatory
 oblivious
 obnoxious
@@ -788,6 +808,7 @@ panorama
 pass on
 pass over
 pass the time of day with
+pathos
 pendulum
 percussion
 peril
@@ -800,6 +821,7 @@ phase out
 pinch
 plaintive
 plausible
+plead for sb.
 plow
 pollinate
 pompous
@@ -817,7 +839,7 @@ primitive
 prior
 procure
 prompt
-prosecute
+propriety
 psychiatry
 pull sth. off
 punctual
@@ -825,7 +847,6 @@ pungent
 quench
 racket
 radical
-rampant
 rarely
 rational
 ravage
@@ -848,6 +869,7 @@ rural
 scold
 scrap
 scrupulous
+scrutiny
 seclude
 see eye to eye
 sentiment
@@ -868,14 +890,13 @@ stake
 stand out
 steadfast
 steady
-stimulus
 stoop
 strait
+stress
 succession
 superficial
 superstition
 susceptible
-suspicious
 swerve
 sysnonym
 tacit
@@ -884,18 +905,19 @@ take pains to do
 take sth. upon oneself
 tamper
 tap
-telling
 tenacious
 tenancy
 tender
 thirst
+tire
 transgress
+trial
 trick
 tumble
 turmoil
 turnover
 
-#2 UVWXYZ (14)
+#2 UVWXYZ (15)
 unanimous
 undergo
 undue
@@ -907,6 +929,7 @@ virtually
 vogue
 wander
 well-to-do
+whip
 wilderness
 yarn
 zest
