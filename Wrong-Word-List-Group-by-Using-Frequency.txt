@@ -73,7 +73,7 @@ get through
 look at
 settle on sth.
 
-#7 byrank (13)
+#7 byrank (15)
 obstinate
 aggregate
 frown
@@ -81,12 +81,14 @@ erratic
 frail
 mundane
 restless
+vigorous
 wit
 outbreak
 mandatory
 terrific
 counterpart
 ongoing
+retain
 
 #7 phrase (11)
 above reproach
@@ -101,9 +103,10 @@ set about sth.
 take sth. over
 try one's hand at
 
-#6 byrank (40)
+#6 byrank (42)
 permanent
 cartoon
+adept
 indemnity
 steep
 defiance
@@ -122,10 +125,10 @@ irritate
 appraisal
 behalf
 obscure
+withstand
 discrepancy
 inquire
 intimidate
-vigorous
 garment
 exceptional
 ignorance
@@ -133,12 +136,13 @@ magnificent
 penetrate
 allege
 induce
+speculate
 neat
 indigenous
 impressive
 versus
 violate
-retain
+conservative
 criterion
 apparent
 afford
@@ -154,13 +158,12 @@ on account of
 set in
 take sth. into account
 
-#5 byrank (65)
+#5 byrank (64)
 undercharge
 superintend
 antique
 trifle
 overlook
-adept
 tenable
 abridge
 divine
@@ -190,6 +193,7 @@ reciprocal
 majestic
 preserve
 anyhow
+impart
 overt
 mitigate
 refreshing
@@ -198,7 +202,6 @@ subscribe
 mediate
 setback
 apt
-withstand
 discriminate
 referendum
 elicit
@@ -211,7 +214,6 @@ fascinate
 mess
 immense
 designate
-speculate
 autonomy
 practitioner
 immune
@@ -219,7 +221,8 @@ determination
 facilitate
 sophisticated
 attractive
-conservative
+nevertheless
+elsewhere
 
 #5 phrase (15)
 accountable for
@@ -238,11 +241,12 @@ stick around
 stick sth. out
 take sth. in
 
-#4 byrank (94)
+#4 byrank (98)
 practical
 fetter
 manifest
 foremost
+keen
 expedient
 muddle
 gaily
@@ -278,10 +282,11 @@ fidelity
 petition
 vice
 concerted
+saturate
+resilience
 excerpt
 remedy
 oust
-impart
 vanity
 falter
 paramount
@@ -295,6 +300,7 @@ convene
 ordeal
 arrogant
 feasible
+inhibit
 probation
 spontaneous
 postpone
@@ -304,7 +310,9 @@ contempt
 prone
 ponder
 courtesy
+disrupt
 acute
+spectator
 affection
 spray
 strive
@@ -320,13 +328,12 @@ advocate
 ideology
 obstacle
 humanity
+adequate
 vulnerable
 appeal
 incorporate
-nevertheless
 assure
 inspire
-elsewhere
 enormous
 sector
 typical
@@ -356,14 +363,13 @@ pass sb. by
 pull through
 set sth. back
 
-#3 byrank (150)
+#3 byrank (146)
 inclusive
 volatile
 intermediate
 drowse
 overwrought
 fret
-keen
 ramble
 rendezvous
 din
@@ -384,6 +390,7 @@ bind
 compact
 outlying
 distress
+lament
 dilapidated
 despair
 defect
@@ -407,12 +414,10 @@ overhaul
 predominant
 exploit
 itinerary
-saturate
 telling
 detrimental
 propulsion
 hilarious
-resilience
 interrogate
 quaint
 gasp
@@ -440,7 +445,6 @@ deteriorate
 escalate
 frantic
 plight
-inhibit
 revolve
 renovation
 intricate
@@ -457,6 +461,7 @@ lucrative
 deter
 distort
 breed
+tap
 thrill
 thorough
 specimen
@@ -464,8 +469,6 @@ destructive
 haven
 reserve
 shatter
-disrupt
-spectator
 prosecute
 compensate
 evoke
@@ -487,7 +490,6 @@ doctrine
 behave
 render
 trunk
-adequate
 distinct
 grant
 distinguish
@@ -504,6 +506,7 @@ passion
 physician
 convince
 rely
+circumstance
 expand
 context
 demonstrate
@@ -540,7 +543,7 @@ take after sb.
 take sb. off
 the gist
 
-#2 byrank (295)
+#2 byrank (297)
 sysnonym
 glamour
 deadly
@@ -555,6 +558,7 @@ aboriginal
 trial
 junk
 off-hand
+portion
 meagre
 grope
 graze
@@ -637,7 +641,6 @@ prompt
 painstaking
 rupture
 slope
-lament
 vacuum
 omen
 hail
@@ -702,6 +705,7 @@ pertinent
 indicative
 molest
 aggravate
+haul
 merit
 denote
 afflict
@@ -769,7 +773,6 @@ succession
 differentiate
 potent
 marital
-tap
 deprive
 glorious
 turnover
@@ -805,6 +808,7 @@ encounter
 reliable
 harsh
 integrity
+principal
 depict
 Christian
 undergo
@@ -813,6 +817,7 @@ modest
 custom
 distribute
 stress
+alter
 tire
 insight
 detect
@@ -832,8 +837,8 @@ rural
 resolution
 oppose
 confirm
-circumstance
 revenue
+communication
 maintain
 economic
 

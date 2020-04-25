@@ -101,21 +101,24 @@ look out for sb.
 mandatory
 mundane
 
-#7 OPQRST (9)
+#7 OPQRST (10)
 obstinate
 ongoing
 outbreak
 pass sth. off
 restless
+retain
 set about sth.
 take sth. over
 terrific
 try one's hand at
 
-#7 UVWXYZ (1)
+#7 UVWXYZ (2)
+vigorous
 wit
 
-#6 ABCDEFG (18)
+#6 ABCDEFG (20)
+adept
 afford
 all out
 allege
@@ -126,6 +129,7 @@ bear sth. out
 behalf
 cartoon
 complement
+conservative
 criterion
 defiance
 discrepancy
@@ -160,8 +164,8 @@ overdue
 overhear
 penetrate
 permanent
-retain
 set in
+speculate
 stagger
 steep
 surplus
@@ -169,13 +173,12 @@ take sth. into account
 
 #6 UVWXYZ (3)
 versus
-vigorous
 violate
+withstand
 
-#5 ABCDEFG (35)
+#5 ABCDEFG (34)
 abridge
 accountable for
-adept
 advent
 all the same to
 antecedent
@@ -190,7 +193,6 @@ carry on
 carry out
 clear up
 commotion
-conservative
 day in and day out
 designate
 determination
@@ -201,6 +203,7 @@ divine
 dose
 elbow
 elicit
+elsewhere
 emigrate
 facilitate
 fascinate
@@ -209,10 +212,11 @@ give in
 give way
 go on about sth.
 
-#5 HIJKLMN (13)
+#5 HIJKLMN (15)
 hit it off
 immense
 immune
+impart
 inaugurate
 incidence
 keep in with sb.
@@ -222,9 +226,10 @@ mediate
 mentality
 mess
 mitigate
+nevertheless
 notable
 
-#5 OPQRST (26)
+#5 OPQRST (25)
 overlook
 overt
 permissible
@@ -240,7 +245,6 @@ refreshing
 sensible
 setback
 sophisticated
-speculate
 steer
 stick around
 stick sth. out
@@ -252,16 +256,16 @@ temptation
 tenable
 trifle
 
-#5 UVWXYZ (6)
+#5 UVWXYZ (5)
 undercharge
 uneasy
 virtuous
 whilst
-withstand
 wrench
 
-#4 ABCDEFG (48)
+#4 ABCDEFG (49)
 acute
+adequate
 adverse
 advocate
 aesthetic
@@ -288,10 +292,10 @@ convene
 courtesy
 delirium
 denomination
+disrupt
 do sb. a favour
 dumb
 eligible
-elsewhere
 enormous
 exasperate
 excerpt
@@ -315,13 +319,14 @@ haunt
 hold the line
 humanity
 ideology
-impart
 incorporate
 infest
 inflict
 infringe
+inhibit
 inspire
 inundate
+keen
 keep an eye on
 keep on
 keep sth. to oneself
@@ -331,10 +336,9 @@ manifest
 menace
 mischief
 muddle
-nevertheless
 nothing to do with
 
-#4 OPQRST (37)
+#4 OPQRST (40)
 oar
 obstacle
 obvious
@@ -359,11 +363,14 @@ pull through
 remedy
 repent
 reproach
+resilience
 retort
 reverent
+saturate
 sector
 session
 set sth. back
+spectator
 spontaneous
 spray
 strip
@@ -382,8 +389,7 @@ viable
 vice
 vulnerable
 
-#3 ABCDEFG (80)
-adequate
+#3 ABCDEFG (79)
 alternate
 amateur
 anxiety
@@ -401,6 +407,7 @@ bribe
 carry through
 cast aside
 cast off
+circumstance
 come about
 commence
 compact
@@ -428,7 +435,6 @@ dilapidated
 dilemma
 din
 dispose
-disrupt
 distinct
 distinguish
 distort
@@ -464,7 +470,7 @@ go without
 gracious
 grant
 
-#3 HIJKLMN (33)
+#3 HIJKLMN (32)
 have to do with
 haven
 hedge
@@ -473,16 +479,15 @@ illusion
 imminent
 inclusive
 indispensable
-inhibit
 intent
 intermediate
 interrogate
 intricate
 irony
 itinerary
-keen
 keep at
 keep sb. up
+lament
 lease
 let sb. down
 live on
@@ -499,7 +504,7 @@ mythology
 neglect
 not to say
 
-#3 OPQRST (62)
+#3 OPQRST (60)
 oblige
 observance
 offset
@@ -530,19 +535,16 @@ render
 rendezvous
 renovation
 reserve
-resilience
 respiration
 restrain
 reticent
 revolve
 reward
-saturate
 say to oneself
 settle in
 shatter
 specification
 specimen
-spectator
 stimulus
 stumble
 subdue
@@ -551,6 +553,7 @@ suspicious
 take after sb.
 take sb. off
 tame
+tap
 tease
 telling
 tendency
@@ -570,7 +573,7 @@ vital
 volatile
 wail
 
-#2 ABCDEFG (140)
+#2 ABCDEFG (141)
 Christian
 aboriginal
 abrupt
@@ -583,6 +586,7 @@ aggressive
 agitation
 aisle
 allowance
+alter
 anecdote
 applaud
 appliance
@@ -613,7 +617,6 @@ catholic
 chaste
 chore
 circumference
-circumstance
 civic
 coed
 come apart
@@ -625,6 +628,7 @@ come to terms
 come upon
 commemorate
 commend
+communication
 compel
 compromise
 compulsory
@@ -720,6 +724,7 @@ handicap
 hang on
 harsh
 hasty
+haul
 have the making of
 heighten
 hinder
@@ -744,7 +749,6 @@ keep sb. out
 knob
 know better
 laden
-lament
 lane
 languid
 latent
@@ -788,7 +792,7 @@ neurosis
 nicety
 nullify
 
-#2 OPQRST (127)
+#2 OPQRST (128)
 obligatory
 oblivious
 obnoxious
@@ -825,6 +829,7 @@ plead for sb.
 plow
 pollinate
 pompous
+portion
 posthumous
 potent
 practicable
@@ -836,6 +841,7 @@ premise
 pretentious
 prevalent
 primitive
+principal
 prior
 procure
 prompt
@@ -904,7 +910,6 @@ take away
 take pains to do
 take sth. upon oneself
 tamper
-tap
 tenacious
 tenancy
 tender
