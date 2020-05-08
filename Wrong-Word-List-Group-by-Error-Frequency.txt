@@ -45,7 +45,8 @@ fatuous
 #9 HIJKLMN (1)
 imperative
 
-#9 OPQRST (1)
+#9 OPQRST (2)
+readily
 tedious
 
 #8 ABCDEFG (12)
@@ -72,21 +73,23 @@ mishap
 #8 OPQRST (8)
 phobia
 pier
-readily
 redeem
+retain
 scorn
 settle on sth.
 somewhat
 trek
 
-#8 UVWXYZ (2)
+#8 UVWXYZ (3)
 venerate
+vigorous
 wary
 
-#7 ABCDEFG (9)
+#7 ABCDEFG (10)
 above reproach
 aggregate
 bear with
+complement
 counterpart
 do with
 erratic
@@ -107,14 +110,13 @@ ongoing
 outbreak
 pass sth. off
 restless
-retain
 set about sth.
+speculate
 take sth. over
 terrific
 try one's hand at
 
-#7 UVWXYZ (2)
-vigorous
+#7 UVWXYZ (1)
 wit
 
 #6 ABCDEFG (20)
@@ -128,12 +130,12 @@ be on to
 bear sth. out
 behalf
 cartoon
-complement
 conservative
 criterion
 defiance
 discrepancy
 discrete
+elsewhere
 exceptional
 garment
 glitter
@@ -157,7 +159,7 @@ mania
 mercantile
 neat
 
-#6 OPQRST (12)
+#6 OPQRST (11)
 obscure
 on account of
 overdue
@@ -165,7 +167,6 @@ overhear
 penetrate
 permanent
 set in
-speculate
 stagger
 steep
 surplus
@@ -176,7 +177,7 @@ versus
 violate
 withstand
 
-#5 ABCDEFG (34)
+#5 ABCDEFG (36)
 abridge
 accountable for
 advent
@@ -191,6 +192,7 @@ beset
 captive
 carry on
 carry out
+chart
 clear up
 commotion
 day in and day out
@@ -199,26 +201,28 @@ determination
 detest
 discreet
 discriminate
+disrupt
 divine
 dose
 elbow
 elicit
-elsewhere
 emigrate
 facilitate
 fascinate
 flame
+foremost
 give in
 give way
 go on about sth.
 
-#5 HIJKLMN (15)
+#5 HIJKLMN (16)
 hit it off
 immense
 immune
 impart
 inaugurate
 incidence
+inhibit
 keep in with sb.
 majestic
 make out
@@ -263,7 +267,7 @@ virtuous
 whilst
 wrench
 
-#4 ABCDEFG (49)
+#4 ABCDEFG (48)
 acute
 adequate
 adverse
@@ -279,7 +283,6 @@ assure
 be on edge
 brisk
 brutal
-chart
 clear out
 clearance
 come along
@@ -289,10 +292,10 @@ concerted
 contemplate
 contempt
 convene
+convince
 courtesy
 delirium
 denomination
-disrupt
 do sb. a favour
 dumb
 eligible
@@ -307,11 +310,11 @@ feasible
 feeble
 fetter
 fidelity
-foremost
 gaily
 get at sb.
 get down to business
 get nowhere
+grant
 grill
 
 #4 HIJKLMN (22)
@@ -323,8 +326,8 @@ incorporate
 infest
 inflict
 infringe
-inhibit
 inspire
+intent
 inundate
 keen
 keep an eye on
@@ -338,7 +341,7 @@ mischief
 muddle
 nothing to do with
 
-#4 OPQRST (40)
+#4 OPQRST (43)
 oar
 obstacle
 obvious
@@ -360,9 +363,11 @@ probation
 prone
 prospectus
 pull through
+rely
 remedy
 repent
 reproach
+reserve
 resilience
 retort
 reverent
@@ -377,6 +382,7 @@ strip
 strive
 suspense
 synonym
+throughout
 toil
 typical
 
@@ -389,7 +395,7 @@ viable
 vice
 vulnerable
 
-#3 ABCDEFG (79)
+#3 ABCDEFG (77)
 alternate
 amateur
 anxiety
@@ -420,7 +426,6 @@ context
 controversial
 convention
 convict
-convince
 decrepit
 defect
 deficit
@@ -468,9 +473,9 @@ get the better of
 glimpse
 go without
 gracious
-grant
 
 #3 HIJKLMN (32)
+haul
 have to do with
 haven
 hedge
@@ -479,7 +484,6 @@ illusion
 imminent
 inclusive
 indispensable
-intent
 intermediate
 interrogate
 intricate
@@ -504,7 +508,7 @@ mythology
 neglect
 not to say
 
-#3 OPQRST (60)
+#3 OPQRST (61)
 oblige
 observance
 offset
@@ -523,6 +527,7 @@ physician
 piecemeal
 plight
 portfolio
+portion
 predominant
 proceed
 propulsion
@@ -530,11 +535,11 @@ prosecute
 quaint
 ramble
 rampant
-rely
+reliable
 render
 rendezvous
 renovation
-reserve
+resolution
 respiration
 restrain
 reticent
@@ -545,6 +550,7 @@ settle in
 shatter
 specification
 specimen
+spectacular
 stimulus
 stumble
 subdue
@@ -560,7 +566,6 @@ tendency
 the gist
 thorough
 thrill
-throughout
 transcend
 trunk
 trustworthy
@@ -573,10 +578,11 @@ vital
 volatile
 wail
 
-#2 ABCDEFG (141)
+#2 ABCDEFG (171)
 Christian
 aboriginal
 abrupt
+academic
 accord
 accuse
 adhere
@@ -587,10 +593,15 @@ agitation
 aisle
 allowance
 alter
+altitude
 anecdote
+antenna
+anthropologist
 applaud
 appliance
 appropriate
+aqueduct
+archaeologist
 ardent
 as opposed to
 ascertain
@@ -600,6 +611,7 @@ at all times
 at fault
 at its best
 attain
+attentive
 baffle
 be at odds
 be on good terms
@@ -608,17 +620,23 @@ berth
 border on
 bound
 breach
+brilliance
 bring about
+burst
 call off
+carol
 catch on
 catching
+catharsis
 cathedral
 catholic
 chaste
 chore
 circumference
 civic
+climatic
 coed
+colonize
 come apart
 come off
 come out
@@ -632,25 +650,32 @@ communication
 compel
 compromise
 compulsory
+conclusive
 confer
 confine
 confirm
 consecutive
 conserve
+considerably
 consign
 constrain
 constrict
 contest
+contribution
+conventional
 corporate
 crumble
 culminate
 cumbersome
 custom
+customary
 cut across
 damp
 dazzle
 deadly
+defenseless
 defile
+definition
 definitive
 deflect
 delinquency
@@ -664,6 +689,7 @@ detain
 detect
 deviate
 devise
+devoid
 diagram
 differentiate
 digest
@@ -672,6 +698,7 @@ dispute
 dissertation
 distribute
 do sth. with a bad grace
+drastically
 drift
 economic
 eddy
@@ -683,11 +710,14 @@ emotion
 encounter
 epidemic
 erroneous
+establishment
+evergreen
 everlasting
 exemplify
 exert
 exhilarate
 exhort
+extent
 extort
 fabulous
 faint
@@ -696,6 +726,9 @@ first and foremost
 fixture
 flake
 flavor
+flax
+forager
+foster
 frugal
 gauge
 generous
@@ -704,6 +737,7 @@ get into
 get somewhere
 give oneself airs
 glamour
+glaze
 glorious
 go for sb.
 go over
@@ -715,8 +749,9 @@ grit
 grope
 growl
 grumble
+gulf
 
-#2 HIJKLMN (74)
+#2 HIJKLMN (83)
 had better
 hail
 hamper
@@ -724,15 +759,17 @@ handicap
 hang on
 harsh
 hasty
-haul
 have the making of
 heighten
+hieroglyphic
 hinder
 hold on
 hostile
 hubbub
 humdrum
 humidity
+illumination
+impression
 in time
 indicative
 indignant
@@ -741,6 +778,8 @@ infirmary
 inhabit
 insight
 integrity
+intense
+intensive
 invariably
 irrigation
 junk
@@ -748,6 +787,7 @@ juvenile
 keep sb. out
 knob
 know better
+laborious
 laden
 lane
 languid
@@ -779,6 +819,7 @@ memento
 merit
 metabolism
 meticulous
+minuscule
 misrepresent
 modest
 molest
@@ -788,11 +829,14 @@ morbid
 moreover
 mortgage
 motif
+mythical
+naturalistic
 neurosis
 nicety
 nullify
+nystatin
 
-#2 OPQRST (128)
+#2 OPQRST (144)
 obligatory
 oblivious
 obnoxious
@@ -809,6 +853,8 @@ outweigh
 overtake
 painstaking
 panorama
+parlor
+particular
 pass on
 pass over
 pass the time of day with
@@ -816,6 +862,7 @@ pathos
 pendulum
 percussion
 peril
+peripheral
 perish
 pertinent
 pervade
@@ -823,13 +870,13 @@ pester
 pesticide
 phase out
 pinch
+plain
 plaintive
 plausible
 plead for sb.
 plow
 pollinate
 pompous
-portion
 posthumous
 potent
 practicable
@@ -838,14 +885,17 @@ precipice
 precipitate
 predecessor
 premise
+prestige
 pretentious
 prevalent
 primitive
 principal
 prior
 procure
+prominent
 prompt
 propriety
+prosperity
 psychiatry
 pull sth. off
 punctual
@@ -860,16 +910,17 @@ realm
 recipe
 recite
 reckless
+recognition
 redundant
 rehabilitate
 rejoice
-reliable
 repetition
 reputation
-resolution
 revenue
+revolution
 ritual
 rival
+romanticism
 rupture
 rural
 scold
@@ -890,12 +941,15 @@ slope
 sluggish
 snap at sth.
 spacious
-spectacular
+specialization
+spectacle
 spill
+square
 stake
 stand out
 steadfast
 steady
+stimulate
 stoop
 strait
 stress
@@ -910,23 +964,33 @@ take away
 take pains to do
 take sth. upon oneself
 tamper
+tectonic
+temper
+temporarily
 tenacious
 tenancy
+tenant
 tender
 thirst
 tire
+trance
 transgress
 trial
 trick
 tumble
 turmoil
 turnover
+typically
 
-#2 UVWXYZ (15)
+#2 UVWXYZ (19)
 unanimous
 undergo
+undisturbed
 undue
+universality
+vacation
 vacuum
+vary
 versatile
 vigilant
 vindicate
