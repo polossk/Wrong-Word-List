@@ -1,5 +1,6 @@
 import os
 import glob
+import pickle
 from operator import itemgetter
 
 GROUP_BY = ["ABCDEFG", "HIJKLMN", "OPQRST", "UVWXYZ"]
@@ -105,7 +106,12 @@ def readRank():
             word = word.replace('(', '').replace(')', '')
             data.append((rank, word))
     data_dict = {word: rank for rank, word in data}
+    pickle.dump(data_dict, open('data_dict.bin', 'wb'))
     return data_dict
+
+
+# def readRank():
+#     return pickle.load(open('data_dict.bin', 'rb'))
 
 
 def main():
