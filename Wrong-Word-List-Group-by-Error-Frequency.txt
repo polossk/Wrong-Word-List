@@ -35,9 +35,10 @@ brink
 conform
 for the sake of
 
-#12 HIJKLMN (3)
+#12 HIJKLMN (4)
 imperative
 impose
+inhibit
 lay bare
 
 #12 OPQRST (5)
@@ -54,8 +55,7 @@ extravagant
 fatuous
 frustrate
 
-#11 HIJKLMN (2)
-inhibit
+#11 HIJKLMN (1)
 mishap
 
 #11 OPQRST (6)
@@ -82,7 +82,8 @@ estimate
 gaunt
 get over
 
-#10 HIJKLMN (2)
+#10 HIJKLMN (3)
+indispensable
 liable
 misgiving
 
@@ -96,20 +97,20 @@ try one's hand at
 #10 UVWXYZ (1)
 wary
 
-#9 ABCDEFG (8)
+#9 ABCDEFG (9)
 above reproach
 accountable for
 apparent
+appeal
 discreet
 discriminate
 frail
 frown
 get through
 
-#9 HIJKLMN (8)
+#9 HIJKLMN (7)
 ignorance
 impressive
-indispensable
 inquire
 intimidate
 look over
@@ -132,7 +133,6 @@ violate
 
 #8 ABCDEFG (12)
 apparatus
-appeal
 autonomy
 behalf
 come up against
@@ -142,11 +142,13 @@ counterpart
 crude
 divine
 erratic
+foremost
 go about
 
-#8 HIJKLMN (8)
+#8 HIJKLMN (9)
 immense
 inaugurate
+keen
 look at
 make out
 mandatory
@@ -154,11 +156,12 @@ mania
 menace
 mundane
 
-#8 OPQRST (7)
+#8 OPQRST (8)
 obscure
 outbreak
 permanent
 set in
+speculate
 steadfast
 steep
 subscribe
@@ -168,7 +171,7 @@ uneasy
 versus
 wrench
 
-#7 ABCDEFG (19)
+#7 ABCDEFG (18)
 adverse
 all the same to
 apt
@@ -184,7 +187,6 @@ determination
 disrupt
 do with
 elsewhere
-foremost
 garment
 give way
 glitter
@@ -194,36 +196,38 @@ hold out
 impetus
 indemnity
 indigenous
+intent
 irritate
-keen
 lay out
 look out for sb.
 majestic
 mess
 neat
 
-#7 OPQRST (9)
+#7 OPQRST (10)
 overhear
 practitioner
 refreshing
 restless
 sensible
-speculate
+spontaneous
 steer
 subdue
 take sth. into account
+temper
 
 #7 UVWXYZ (2)
 virtuous
 wit
 
-#6 ABCDEFG (24)
+#6 ABCDEFG (25)
 afford
 all out
 anyhow
 attractive
 blunt
 brutal
+burst
 carry out
 cartoon
 chart
@@ -248,7 +252,7 @@ hectic
 hit it off
 induce
 infringe
-intent
+intense
 keep sb. on
 mediate
 mitigate
@@ -257,12 +261,13 @@ mythical
 nevertheless
 notable
 
-#6 OPQRST (21)
+#6 OPQRST (20)
 ordeal
 overdue
 overrule
 pass off
 penetrate
+peripheral
 plain
 platitude
 prerogative
@@ -272,31 +277,31 @@ setback
 sophisticated
 spectacle
 spectator
-spontaneous
 stagger
 stick around
 stipulate
 take sth. in
-temper
 temptation
 
-#6 UVWXYZ (3)
+#6 UVWXYZ (4)
+vary
 vex
 whilst
 withstand
 
-#5 ABCDEFG (42)
+#5 ABCDEFG (47)
 abridge
 adequate
 advent
 affection
 antecedent
 antique
+appear
 appreciable
 be on edge
 beset
+botanical
 breed
-burst
 carol
 circumstance
 civic
@@ -304,9 +309,12 @@ clear up
 come about
 come along
 commence
+commercially
 comprise
 conscious
+considerably
 controversial
+conventional
 courtesy
 day in and day out
 defect
@@ -320,6 +328,7 @@ elbow
 elicit
 enormous
 ensue
+epitome
 establishment
 exasperate
 facilitate
@@ -329,7 +338,7 @@ get at sb.
 give in
 go on about sth.
 
-#5 HIJKLMN (21)
+#5 HIJKLMN (22)
 hasty
 have to do with
 hilarious
@@ -340,15 +349,16 @@ incidence
 infest
 inflict
 inspire
-intense
 keep in with sb.
 lease
 levy
 loll
 lounge
 make for sb.
+manifestation
 mentality
 mischief
+naturalistic
 not to say
 nothing to do with
 
@@ -359,13 +369,13 @@ outcome
 overlook
 overt
 owe
-peripheral
 permissible
 perplex
 petition
 poise
 practical
 preserve
+prestige
 proceed
 propulsion
 prospectus
@@ -385,15 +395,14 @@ suspense
 tenable
 trifle
 
-#5 UVWXYZ (6)
+#5 UVWXYZ (5)
 undercharge
 undisturbed
 ungainly
 vanity
-vary
 viable
 
-#4 ABCDEFG (71)
+#4 ABCDEFG (70)
 accord
 acute
 advocate
@@ -401,28 +410,26 @@ aesthetic
 agitation
 all in all
 all told
-appear
 archaeologist
+attentive
 avert
-botanical
+bonito
 botanist
 brisk
+carbonic
 catch on
 catharsis
 clear out
 clearance
 come up with
-commercially
 compact
 concerted
 consciousness
-considerably
 constitute
 contemplate
 contempt
 contribution
 convene
-conventional
 convict
 convince
 damp
@@ -441,7 +448,7 @@ drastic
 dumb
 eligible
 enclose
-epitome
+envelop
 errand
 escalate
 exacerbate
@@ -458,6 +465,7 @@ fidelity
 find fault with
 foster
 frantic
+freshwater
 fret
 get nowhere
 get the better of
@@ -466,12 +474,13 @@ go without
 grant
 grill
 
-#4 HIJKLMN (23)
+#4 HIJKLMN (24)
 haul
 haunt
 haven
 hold the line
 humanity
+hypothalamus
 incise
 inclusive
 incorporate
@@ -483,26 +492,30 @@ keep at
 keep on
 keep sb. up
 keep sth. to oneself
+kestrel
+latent
 live on
 look one's best
 make off
 manifest
-manifestation
 moreover
-naturalistic
 
-#4 OPQRST (55)
+#4 OPQRST (60)
 obstacle
 obvious
 offset
+opportunist
 oral
 oust
 outlying
 overhaul
 overwrought
 paramount
+particular
 pass sb. by
 pass the time of day with
+periodically
+permanence
 pertain
 piston
 plead for sb.
@@ -510,7 +523,6 @@ ponder
 portion
 postpone
 predisposition
-prestige
 probation
 prone
 prosperity
@@ -532,6 +544,7 @@ spray
 stimulate
 strip
 stumble
+superiority
 suspicious
 synonym
 take sb. off
@@ -543,6 +556,7 @@ thrill
 throughout
 toil
 transcend
+transportation
 trick
 turmoil
 turnover
@@ -557,7 +571,7 @@ vital
 volatile
 vulnerable
 
-#3 ABCDEFG (97)
+#3 ABCDEFG (94)
 aboriginal
 abrupt
 afflict
@@ -571,11 +585,11 @@ appliance
 arcade
 arrange
 articulate
+artisan
 assess
 at all times
 at the mercy of
 attendant
-attentive
 availability
 aware
 back sb. up
@@ -583,10 +597,8 @@ baffle
 behave
 behind time
 bind
-bonito
 brew
 bribe
-carbonic
 carry through
 cast aside
 cast off
@@ -598,6 +610,7 @@ compel
 compensate
 compulsory
 concede
+conclusive
 conscience
 consecutive
 consolidate
@@ -626,7 +639,6 @@ emotion
 endanger
 endurance
 enthusiastic
-envelop
 envision
 epoch
 equivalent
@@ -641,7 +653,6 @@ flavor
 for one thing
 forager
 forthcoming
-freshwater
 frugal
 fruition
 gasp
@@ -656,28 +667,26 @@ gracious
 graze
 grumble
 
-#3 HIJKLMN (41)
+#3 HIJKLMN (39)
 hamper
 hedge
 heighten
 hieroglyphic
 hostile
 humidity
-hypothalamus
 illumination
 illusion
 imminent
 implication
+impression
 integrity
 intention
 intermediate
 interrogate
 irony
 itinerary
-kestrel
 laborious
 lament
-latent
 let sb. down
 live through
 locomotion
@@ -706,18 +715,14 @@ obsolete
 off-hand
 on and off
 on and on
-opportunist
 original
 pageant
 panorama
-particular
 passion
 patron
 pay sb. back for sth.
 penchant
-periodically
 perish
-permanence
 persist
 pester
 physician
@@ -738,6 +743,7 @@ quench
 radical
 rampant
 ravage
+realm
 recipient
 recognition
 reliable
@@ -760,20 +766,24 @@ scarce
 scrupulous
 seclude
 shatter
+shrub
+significantly
 simultaneous
 specialization
 specification
 specimen
 squander
 square
+starvation
 stimulus
 stoop
 straightforward
 stress
 stuff
 sufficient
-superiority
+supplant
 suppress
+symbolic
 tacit
 take after sb.
 take sb. in
@@ -785,7 +795,6 @@ tendency
 thorough
 tire
 trace
-transportation
 trial
 trunk
 trustworthy
@@ -796,7 +805,7 @@ typically
 versatile
 wail
 
-#2 ABCDEFG (280)
+#2 ABCDEFG (287)
 Christian
 abide
 abiding
@@ -840,7 +849,6 @@ archaeology
 architectural
 ardent
 aromatic
-artisan
 as far as
 as opposed to
 ascertain
@@ -855,6 +863,7 @@ atheist
 atrophy
 attain
 attainment
+attest
 attitude
 auger
 avocation
@@ -868,6 +877,7 @@ be in two minds about sth.
 be on good terms
 beat around the bush
 berth
+biological
 blunder
 border on
 bound
@@ -914,7 +924,7 @@ compatible
 compression
 compromise
 concave
-conclusive
+concentrated
 concoct
 condense
 condiment
@@ -944,6 +954,7 @@ continuous
 contrast
 corporate
 cram
+credit
 creditor
 creek
 crippling
@@ -953,6 +964,7 @@ culminate
 cumbersome
 custom
 customary
+dandelions
 dash off
 dazzle
 deadly
@@ -971,6 +983,7 @@ deplete
 deposition
 deprive
 deserve
+desirable
 desolate
 detain
 devise
@@ -1028,6 +1041,7 @@ exert
 exhibit
 exhilarate
 exhort
+exposition
 extensively
 extort
 fabulous
@@ -1065,6 +1079,7 @@ give oneself airs
 glaze
 glean
 glorious
+glow
 go for sb.
 go into
 go over
@@ -1073,6 +1088,7 @@ gratify
 grim
 grind
 grit
+groove
 grope
 gross
 growl
@@ -1083,6 +1099,7 @@ habitat
 had better
 hail
 halite
+handcrafted
 handicap
 hang on
 harsh
@@ -1101,7 +1118,6 @@ imitative
 impending
 impersonate
 implement
-impression
 improvise
 in terms of
 in time
@@ -1204,8 +1220,9 @@ noticeable
 notoriously
 nullify
 
-#2 OPQRST (237)
+#2 OPQRST (235)
 Pleistocene
+Semitic
 obligatory
 obliterate
 oblivious
@@ -1313,7 +1330,6 @@ racket
 rarely
 rational
 raze
-realm
 recede
 receptacle
 recipe
@@ -1352,6 +1368,7 @@ scour
 scrap
 scrub
 scrutiny
+scurry
 sediment
 seemingly
 sensational
@@ -1363,8 +1380,6 @@ set on sb.
 sheet
 shelve
 shrewd
-shrub
-significantly
 single out
 sinuous
 slander
@@ -1381,7 +1396,6 @@ squarely
 stake
 stale
 stand out
-starvation
 steadily
 steady
 stilt
@@ -1405,14 +1419,12 @@ succession
 succumb
 superficial
 superstition
-supplant
 surcharge
 susceptible
 suspect
 sustained
 swerve
 symbiotic
-symbolic
 symbology
 synthetic
 sysnonym
@@ -1432,12 +1444,14 @@ temporarily
 tenacious
 tender
 tenderness
+texture
 think nothing of
 thirst
 threshing
 tortuous
 trance
 transgress
+trappings
 tray
 trend
 tumble
