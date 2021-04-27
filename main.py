@@ -38,8 +38,8 @@ def count(frq_list):
     values = list(range(frq_list[0][1] + 1, 0, -1))
     for value in values[::-1]:
         cnt = sum([1 for _ in frq_list if _[1] == value])
-        print(f"record {value:2d} time(s): {cnt:4d} word(s).")
-        # print(cnt, end='|')
+        # print(f"record {value:2d} time(s): {cnt:4d} word(s).")
+        print(cnt, end='|')
         # print(value, cnt)
     # print()
     return values

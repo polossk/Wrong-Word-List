@@ -1,167 +1,186 @@
-#15 byrank (2)
+#16 byrank (2)
 forte
 incur
 
-#14 byrank (3)
+#15 byrank (3)
 roam
 perturb
 complement
 
-#14 phrase (2)
+#15 phrase (2)
 in sb.'s favour
 in the hands of
 
-#13 byrank (5)
-engross
-etiquette
+#14 byrank (2)
 tedious
 flatter
-equitable
 
-#13 phrase (3)
+#14 phrase (3)
 be set on sth.
-fall back on
+lay bare
 live with
 
-#12 byrank (9)
+#13 byrank (9)
 ostentation
-somewhat
+engross
+etiquette
 imperative
+equitable
 redeem
 brink
-inhibit
-conform
 impose
 perceive
 
-#12 phrase (4)
+#13 phrase (2)
 be bent on
-for the sake of
-lay bare
-stand in
+fall back on
 
-#11 byrank (13)
-reasonable
-fatuous
+#12 byrank (9)
 dismay
+somewhat
 mishap
-extravagant
-proficiency
 subside
 appraisal
+inhibit
+conform
 vigorous
 frustrate
+
+#12 phrase (2)
+for the sake of
+stand in
+
+#11 byrank (11)
+reasonable
+fatuous
+scorn
+surplus
+extravagant
+proficiency
+pier
+allege
 readily
 ongoing
 retain
 
-#10 byrank (16)
+#11 phrase (2)
+come across sb.
+get over
+
+#10 byrank (18)
 cordial
 adept
+venerate
 aggregate
-scorn
 gaunt
 misgiving
 trek
-surplus
+discreet
 conspicuous
 indispensable
+frail
 liable
-pier
 wary
-allege
+magnificent
 clarify
+impressive
+violate
 estimate
 
-#10 phrase (4)
+#10 phrase (6)
 call on
-come across sb.
-get over
+look over
+on account of
+set about sth.
+settle on sth.
 try one's hand at
 
-#9 byrank (17)
+#9 byrank (19)
+keen
+divine
 obstinate
-venerate
+menace
 mercantile
 phobia
-discreet
+wrench
 frown
-frail
+behalf
+obscure
 discriminate
 inquire
 intimidate
+uneasy
 ignorance
-magnificent
 terrific
-impressive
-violate
+counterpart
 appeal
 apparent
 
-#9 phrase (9)
+#9 phrase (7)
 above reproach
 accountable for
 get through
-look over
-on account of
+look at
+make out
 pass sth. off
-set about sth.
-settle on sth.
 take sth. over
 
-#8 byrank (27)
+#8 byrank (23)
 permanent
 foremost
-keen
-divine
 steep
 crude
-menace
 steadfast
+subdue
 mania
-wrench
+virtuous
 inaugurate
 commotion
 erratic
+impetus
 mundane
 subscribe
-behalf
-obscure
 apparatus
-uneasy
 immense
 outbreak
 mandatory
 speculate
 autonomy
-counterpart
+determination
 versus
 convention
 
-#8 phrase (5)
+#8 phrase (8)
+be on to
+bear sth. out
+carry on
 come up against
+give way
 go about
-look at
-make out
+hold out
 set in
 
-#7 byrank (30)
+#7 byrank (35)
 indemnity
+muddle
 steer
-subdue
-virtuous
+platitude
+blunt
 glitter
+overrule
 captive
+stipulate
 majestic
 temper
-impetus
 refreshing
 overhear
 irritate
 intent
 arrogant
+mediate
 restless
 apt
+discrepancy
 spontaneous
 adverse
 sensible
@@ -172,47 +191,49 @@ disrupt
 designate
 neat
 practitioner
-determination
 indigenous
+nevertheless
 assure
 elsewhere
+sector
 
-#7 phrase (11)
+#7 phrase (9)
+all out
 all the same to
-be on to
-bear sth. out
 bear with
-carry on
+carry out
 do with
-give way
-hold out
 lay out
 look out for sb.
+stick around
 take sth. into account
 
-#6 byrank (52)
+#6 byrank (54)
+trifle
 cartoon
-muddle
+tenable
+abridge
 gaily
 notable
 burst
 defiance
 peripheral
-platitude
+ungainly
 flame
-blunt
+antecedent
 whilst
 plain
 vex
 detest
 infringe
+defect
+hasty
 stagger
 prerogative
-overrule
 hectic
+lounge
 mythical
 overdue
-stipulate
 emigrate
 excerpt
 remedy
@@ -221,10 +242,10 @@ discrete
 mitigate
 chart
 ordeal
-mediate
+lease
 setback
 withstand
-discrepancy
+dispose
 exceptional
 temptation
 spectacle
@@ -233,67 +254,64 @@ penetrate
 induce
 spectator
 brutal
+adequate
 sophisticated
 attractive
 conservative
-nevertheless
 criterion
 vary
 intense
-sector
 afford
 demonstrate
 
-#6 phrase (9)
-all out
-carry out
+#6 phrase (13)
+come along
+get at sb.
 get down to business
 go down
+go on about sth.
+have to do with
 hit it off
+keep in with sb.
 keep sb. on
+not to say
+nothing to do with
 pass off
-stick around
 take sth. in
 
-#5 byrank (89)
+#5 byrank (93)
 undercharge
 spectacular
 superintend
 practical
 fetter
 antique
-trifle
 overlook
 carol
 botanical
-tenable
-abridge
+fret
 reproach
 dose
 ostensible
-ungainly
 appreciable
 delirium
-antecedent
 prospectus
 elbow
 infest
 loll
 exasperate
 levy
+repent
 poise
 epitome
 perplex
 naturalistic
 oar
 sedentary
-defect
 beset
 undisturbed
 permissible
-hasty
 fault
-lounge
 suspense
 mischief
 petition
@@ -303,6 +321,7 @@ hilarious
 reciprocal
 resilience
 preserve
+errand
 impart
 ensue
 vanity
@@ -310,9 +329,11 @@ commence
 overt
 commercially
 advent
-lease
 dubious
-dispose
+feasible
+escalate
+probation
+exacerbate
 referendum
 prestige
 elicit
@@ -321,9 +342,13 @@ manifestation
 mentality
 inflict
 breed
+tap
+turnover
+ponder
 incidence
 reserve
 courtesy
+acute
 affection
 strive
 viable
@@ -331,55 +356,61 @@ considerably
 comprise
 immune
 civic
+advocate
 conscious
 ideology
 facilitate
-adequate
+distinct
 controversial
 owe
 establishment
 proceed
 conventional
 inspire
+moreover
 enormous
+rely
 circumstance
 outcome
 appear
 
-#5 phrase (16)
+#5 phrase (15)
+all in all
 be on edge
+catch on
 clear up
 come about
-come along
+come up with
 day in and day out
 do sb. a favour
-get at sb.
+get nowhere
 give in
-go on about sth.
-have to do with
-keep in with sb.
 make for sb.
-not to say
-nothing to do with
+make off
+pass sb. by
 set sth. back
 stick sth. out
 
-#4 byrank (133)
+#4 byrank (132)
 inclusive
 opportunist
+scant
 carbonic
 scold
+aboriginal
+trial
 portion
 volatile
 manifest
 bonito
 overwrought
-fret
 kestrel
 ramble
 hypothalamus
 expedient
 damp
+grumble
+din
 incise
 offset
 reverent
@@ -389,7 +420,6 @@ toil
 verge
 catharsis
 synonym
-repent
 exorbitant
 haunt
 compact
@@ -401,21 +431,24 @@ piston
 botanist
 distress
 predisposition
+panorama
 inundate
 agitation
 tame
 exuberant
+stoop
 pertain
 feeble
 latent
+articulate
 convict
 overhaul
 fidelity
 exploit
 vice
 concerted
+telling
 envelop
-errand
 haul
 denote
 oust
@@ -427,7 +460,9 @@ paramount
 brisk
 unrest
 clearance
+rampant
 glimpse
+mythology
 denomination
 enclose
 grill
@@ -437,13 +472,10 @@ expressive
 convene
 superiority
 accord
-feasible
 avert
-escalate
 frantic
+plight
 intricate
-probation
-exacerbate
 periodically
 restrain
 transcend
@@ -452,15 +484,11 @@ postpone
 turmoil
 contempt
 archaeologist
-tap
 prone
-turnover
-ponder
 thrill
 destructive
 haven
 tenant
-acute
 prosperity
 spray
 foster
@@ -474,10 +502,9 @@ aesthetic
 verdict
 dignity
 strip
-advocate
+stuff
 obstacle
 humanity
-distinct
 grant
 consciousness
 vulnerable
@@ -489,24 +516,21 @@ incorporate
 particular
 deficit
 transportation
-moreover
 definition
 convince
-rely
 typical
 contribution
 extent
 obvious
+expand
 session
 
-#4 phrase (28)
-all in all
+#4 phrase (25)
 all told
-catch on
+cast off
 clear out
-come up with
 find fault with
-get nowhere
+first and foremost
 get the better of
 go without
 hold the line
@@ -517,9 +541,8 @@ keep sb. up
 keep sth. to oneself
 live on
 look one's best
-make off
-pass sb. by
 pass the time of day with
+pay sb. back for sth.
 plead for sb.
 pull through
 say to oneself
@@ -529,13 +552,12 @@ snap at sth.
 take sb. off
 the gist
 
-#3 byrank (200)
+#3 byrank (207)
 nystatin
 glamour
+layoff
 catching
-scant
-aboriginal
-trial
+corporate
 off-hand
 graze
 hostile
@@ -549,8 +571,6 @@ tenancy
 seclude
 forager
 rendezvous
-grumble
-din
 scarce
 baffle
 alternate
@@ -558,15 +578,19 @@ magnanimous
 piecemeal
 locomotion
 square
+tender
 tease
 neurosis
+chaste
 scrupulous
 quench
 laborious
 hamper
+delectable
 respiration
 pester
 reticent
+pompous
 meddle
 decrepit
 fruition
@@ -574,11 +598,15 @@ frugal
 bind
 misrepresent
 pretentious
+cardinal
+consign
 ember
+deft
 evergreen
 lament
 dilapidated
 deviate
+melancholy
 tacit
 despair
 flaunt
@@ -587,14 +615,12 @@ wail
 observance
 attendant
 trustworthy
-panorama
 lodging
 epoch
 compulsory
 hedge
 conclusive
 temperate
-stoop
 malignant
 supplant
 arcade
@@ -602,14 +628,13 @@ brew
 specialization
 ravage
 bribe
-articulate
 squander
 predominant
 penchant
 itinerary
 illumination
 eminent
-telling
+provisional
 original
 detrimental
 commend
@@ -629,21 +654,19 @@ artisan
 tug
 obsolete
 versatile
-rampant
 abrupt
 simultaneous
-mythology
 commemorate
 gracious
 humidity
 plank
 heighten
+jeopardise
 specification
 endurance
 militant
 amateur
 deteriorate
-plight
 revolve
 renovation
 consolidate
@@ -656,6 +679,7 @@ imminent
 oblige
 lucrative
 radical
+drift
 ritual
 differentiate
 potent
@@ -664,10 +688,13 @@ straightforward
 appliance
 thorough
 specimen
+formulate
 applaud
+certainty
 equivalent
 enthusiastic
 shatter
+systematic
 expenditure
 morality
 prosecute
@@ -680,6 +707,7 @@ patron
 conscience
 stimulus
 envision
+rational
 compel
 reward
 persist
@@ -693,15 +721,17 @@ recipient
 realm
 portfolio
 doctrine
-stuff
 behave
+consult
 render
 trunk
 reliable
 integrity
+subtle
 principal
 distinguish
 depict
+heritage
 sufficient
 tendency
 stress
@@ -722,26 +752,28 @@ arrange
 emotion
 assess
 physician
+accuse
 typically
 rural
 resolution
 significantly
-expand
 aware
 context
 responsible
 
-#3 phrase (26)
+#3 phrase (33)
+apply oneself
 at all times
 at the mercy of
 back sb. up
 behind time
 carry through
 cast aside
-cast off
+cast sb. aside
+come apart
+come upon
 cut across
 feel like
-first and foremost
 for one thing
 get along
 get into
@@ -749,14 +781,19 @@ get off
 get on
 get round to doing sth.
 go with sb.
+hold on
+know better
 let sb. down
 live through
 lose face
 make sb. up
 on and off
 on and on
-pay sb. back for sth.
+once more
+phase out
+pull sth. off
 take after sb.
+take one's time
 take sb. in
 
 #2 byrank (615)
@@ -773,22 +810,24 @@ cetacean
 scour
 gallant
 deadly
-layoff
 gazette
 wander
-corporate
 sheet
 junk
 retentive
 meagre
+earnest
 plumb
+protract
 grope
 sentimentalism
 symbology
 scurry
+alloy
 sentimentalize
 amble
 preservative
+situated
 scotch
 manacle
 defile
@@ -819,6 +858,7 @@ groove
 swerve
 solder
 dazzle
+towel
 satiric
 avocation
 pliant
@@ -850,6 +890,7 @@ colloquial
 emancipate
 practicable
 reputed
+jumble
 foment
 conjecture
 peregrine
@@ -858,12 +899,12 @@ turnpike
 suspect
 incredulity
 thirst
+manure
 slander
 flax
 infirmary
 auger
 fittingly
-tender
 providence
 urbane
 lethargy
@@ -893,11 +934,11 @@ unspoiled
 strenuously
 stout
 sinuous
-chaste
 steady
 tectonic
 extort
 blunder
+overcome
 posthumous
 plaintive
 precipice
@@ -907,7 +948,6 @@ stunt
 romanticism
 languid
 impersonate
-delectable
 abut
 indiscriminately
 receptacle
@@ -920,7 +960,6 @@ gist
 grand
 stilt
 nullify
-pompous
 everlasting
 loath
 flake
@@ -942,19 +981,19 @@ weariness
 dandelions
 lull
 congenial
+haphazard
 elaborately
 incandescent
 lenient
 constrict
 tumble
 handicap
+recline
 circumference
 shelve
 genesis
 morbid
 abiding
-cardinal
-consign
 well-to-do
 luster
 purification
@@ -971,7 +1010,6 @@ resolute
 slash
 opportunistic
 landscape
-deft
 founder
 adaptable
 indignant
@@ -1014,7 +1052,6 @@ strait
 affliction
 condense
 propriety
-melancholy
 lump
 stump
 populous
@@ -1032,6 +1069,7 @@ astute
 pungent
 redundant
 juvenile
+refrain
 brim
 dreary
 deficient
@@ -1074,6 +1112,7 @@ instructive
 conscientious
 superstition
 milieu
+sporadic
 vigilant
 ingenious
 juncture
@@ -1089,7 +1128,6 @@ shrewd
 tenderness
 trappings
 ludicrous
-provisional
 naturalist
 ardent
 attainment
@@ -1152,6 +1190,7 @@ hypothesize
 improvise
 perpetual
 outweigh
+mock
 premium
 spacious
 attest
@@ -1174,7 +1213,6 @@ creditor
 hinder
 physiological
 distinctly
-jeopardise
 stimulation
 pinch
 conserve
@@ -1182,6 +1220,7 @@ gulf
 confide
 succumb
 sediment
+tablet
 knob
 resort
 dispute
@@ -1199,9 +1238,11 @@ peril
 playwright
 whip
 detain
+maneuver
 pragmatic
 morale
 prose
+intrinsic
 contaminate
 cathedral
 deposition
@@ -1226,9 +1267,9 @@ remainder
 prevailing
 charitable
 definitive
-drift
 sturdy
 proliferation
+embark
 contention
 motif
 adhere
@@ -1245,6 +1286,7 @@ abundant
 deprive
 glorious
 exert
+grave
 outrageous
 warrantable
 inhabit
@@ -1256,13 +1298,10 @@ inhabitant
 absurd
 intriguing
 outlook
-formulate
 repetition
 fabulous
 creek
-certainty
 revival
-systematic
 grim
 confine
 attain
@@ -1275,6 +1314,7 @@ predecessor
 pesticide
 temporarily
 imagery
+advertise
 embody
 monetary
 inappropriate
@@ -1291,7 +1331,6 @@ compromise
 rod
 excessive
 aisle
-rational
 tray
 uncover
 frontier
@@ -1309,7 +1348,6 @@ wilderness
 accommodate
 enthusiasm
 pond
-consult
 ownership
 encounter
 enforce
@@ -1318,10 +1356,8 @@ allegation
 harsh
 essence
 civilization
-subtle
 continuous
 habitat
-heritage
 Christian
 undergo
 catholic
@@ -1330,6 +1366,7 @@ publisher
 custom
 witness
 distribute
+adapt
 alter
 insight
 diverse
@@ -1347,6 +1384,7 @@ constantly
 illustrate
 rarely
 investigator
+coalition
 resistance
 consistent
 deserve
@@ -1356,7 +1394,6 @@ primarily
 asset
 personality
 virtually
-accuse
 unfortunately
 incident
 barely
@@ -1376,50 +1413,52 @@ environment
 effort
 economic
 
-#2 phrase (71)
+#2 phrase (72)
 account for
-apply oneself
 as far as
 as opposed to
 at fault
 at its best
 at the same time
 be at odds
+be better of
 be hard to say
 be in two minds about sth.
 be on good terms
 beat around the bush
+boil down to
 border on
 bring about
+bring in
 call off
 cast away
-cast sb. aside
-come apart
 come off
 come out
 come over sb.
 come round
 come to terms
-come upon
 cone across sb.
 dash off
 do sth. with a bad grace
+do sth. with bad grace
 fend for oneself
 follow suit
 for good
+from the outset
 get somewhere
 give oneself airs
+give out
 go for sb.
 go into
+go out
 go over
 had better
 hang on
 have the making of
-hold on
 in terms of
 in time
 keep sb. out
-know better
+keep to
 lay sth. aside
 leave off
 leave sb. alone
@@ -1429,19 +1468,18 @@ look back
 look down on
 look forward to
 look one’s best
+make sth. up
 make the most of
-once more
+once for all
 pass on
 pass over
 persevere in
-phase out
 preside over
-pull sth. off
 set on sb.
 single out
+stand off
 stand out
 take away
-take one's time
 take pains to do
 take sth. back
 take sth. off
