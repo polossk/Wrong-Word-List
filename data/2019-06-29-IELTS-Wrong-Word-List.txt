@@ -184,7 +184,7 @@ tract
 
 #2019-07-19
 set sth. back
-mandatory 
+mandatory
 revive
 pervade
 

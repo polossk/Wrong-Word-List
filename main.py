@@ -3,7 +3,7 @@ import glob
 import pickle
 from operator import itemgetter
 
-GROUP_BY = ["ABCDEFG", "HIJKLMN", "OPQRST", "UVWXYZ"]
+import configuration
 
 
 def markdown2wordlist(filename):
@@ -47,7 +47,7 @@ def count(frq_list):
 
 def frqlist2markdown(export, cnt, frq_list):
     cnt = cnt[:-1]
-    value_and_prefix = [(v, g) for v in cnt for g in GROUP_BY]
+    value_and_prefix = [(v, g) for v in cnt for g in configuration.GROUP_BY]
     frq_list = list(filter(lambda x: x[1] > 1, frq_list))
     with open(export, 'w', encoding='utf-8') as fout:
         for value, prefix in value_and_prefix:
@@ -97,35 +97,32 @@ def frqlist2markdown_rank(export, cnt, frq_list, _data):
 
 
 def readRank():
-    filename = "60000RANK.txt"
     data = []
-    with open(filename, 'r', encoding='utf-8') as fin:
+    with open(configuration.RANK6K_FILENAME, 'r', encoding='utf-8') as fin:
         for line in fin.readlines():
             rank, word = line.strip().split()
             rank = int(rank)
             word = word.replace('(', '').replace(')', '')
             data.append((rank, word))
     data_dict = {word: rank for rank, word in data}
-    pickle.dump(data_dict, open('data_dict.bin', 'wb'))
+    pickle.dump(data_dict, open(configuration.RANK6K_BINFILENAME, 'wb'))
     return data_dict
 
 
 # def readRank():
-#     return pickle.load(open('data_dict.bin', 'rb'))
+#     return pickle.load(open(configuration.RANK6K_BINFILENAME, 'rb'))
 
 
 def main():
     readRank()
-    worklist_pattern = r".\data\????-??-??-*.txt"
-    worklist = glob.glob(worklist_pattern)
+    worklist = glob.glob(configuration.WORDLIST_PATTERN)
     wordlists = [markdown2wordlist(_) for _ in worklist]
     frq_dict = wordlists2frqdict(wordlists)
     frq_list = frqdict2frqlist(frq_dict)
     cnt = count(frq_list)
-    frqlist2markdown("Wrong-Word-List-Group-by-Error-Frequency.txt", cnt,
-                     frq_list)
-    frqlist2markdown_rank("Wrong-Word-List-Group-by-Using-Frequency.txt", cnt,
-                          frq_list, readRank())
+    frqlist2markdown(configuration.ERROR_FREQUENCY, cnt, frq_list)
+    frqlist2markdown_rank(configuration.USING_FREQUENCY, cnt, frq_list,
+                          readRank())
 
 
 if __name__ == "__main__":

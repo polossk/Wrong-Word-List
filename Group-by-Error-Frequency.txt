@@ -1,14 +1,14 @@
 #16 ABCDEFG (1)
 forte
 
-#16 HIJKLMN (1)
+#16 HIJKLMN (2)
+in sb.'s favour
 incur
 
 #15 ABCDEFG (1)
 complement
 
-#15 HIJKLMN (2)
-in sb.'s favour
+#15 HIJKLMN (1)
 in the hands of
 
 #15 OPQRST (2)
@@ -277,7 +277,7 @@ get down to business
 go down
 go on about sth.
 
-#6 HIJKLMN (15)
+#6 HIJKLMN (16)
 hasty
 have to do with
 hectic
@@ -288,6 +288,7 @@ intense
 keep in with sb.
 keep sb. on
 lease
+look one's best
 lounge
 mythical
 not to say
@@ -523,7 +524,7 @@ grant
 grill
 grumble
 
-#4 HIJKLMN (36)
+#4 HIJKLMN (35)
 haul
 haunt
 haven
@@ -554,7 +555,6 @@ laborious
 latent
 live on
 lodging
-look one's best
 manifest
 milieu
 miraculous
@@ -1361,7 +1361,7 @@ gross
 growl
 gulf
 
-#2 HIJKLMN (135)
+#2 HIJKLMN (134)
 habitat
 had better
 hail
@@ -1451,7 +1451,6 @@ lofty
 look back
 look down on
 look forward to
-look one’s best
 loom
 ludicrous
 lull
